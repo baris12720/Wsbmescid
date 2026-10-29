@@ -1,0 +1,4001 @@
+[
+  {
+    "id": "hadith-1",
+    "arabic": "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى",
+    "translations": {
+      "tr": "Ameller ancak niyetlere göredir ve herkese niyet ettiği şey vardır.",
+      "ar": "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى",
+      "de": "Die Taten sind entsprechend den Absichten, und jedem Menschen steht das zu, was er beabsichtigt hat.",
+      "en": "Actions are but by intentions, and every person will have only what they intended."
+    },
+    "narrator": {
+      "tr": "Hz. Ömer bin Hattâb (r.a.)",
+      "ar": "عمر بن الخطاب رضي الله عنه",
+      "de": "Umar ibn al-Khattab (r.a.)",
+      "en": "Umar ibn al-Khattab (r.a.)"
+    },
+    "source": "Buhârî, Bed'ü'l-Vahy, 1; Müslim, İmâre, 155",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 1",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-2",
+    "arabic": "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ",
+    "translations": {
+      "tr": "Müslüman, dilinden ve elinden diğer Müslümanların güvende olduğu kimsedir.",
+      "ar": "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ",
+      "de": "Der Muslim ist derjenige, vor dessen Zunge und Hand die Muslime sicher sind.",
+      "en": "A Muslim is the one from whose tongue and hands other Muslims are safe."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Amr (r.a.)",
+      "ar": "عبد الله بن عمرو رضي الله عنهما",
+      "de": "Abdullah ibn Amr (r.a.)",
+      "en": "Abdullah ibn Amr (r.a.)"
+    },
+    "source": "Buhârî, Îmân, 4; Müslim, Îmân, 64",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 10",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-3",
+    "arabic": "لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
+    "translations": {
+      "tr": "Sizden biriniz, kendisi için istediğini din kardeşi için de istemedikçe gerçek anlamda iman etmiş olamaz.",
+      "ar": "لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
+      "de": "Keiner von euch ist wahrhaft gläubig, bis er für seinen Bruder liebt, was er für sich selbst liebt.",
+      "en": "None of you truly believes until he loves for his brother what he loves for himself."
+    },
+    "narrator": {
+      "tr": "Enes bin Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "Buhârî, Îmân, 7; Müslim, Îmân, 71",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 13",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-4",
+    "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+    "translations": {
+      "tr": "Sizin en hayırlınız, Kur'an'ı öğrenen ve onu başkalarına öğreteninizdir.",
+      "ar": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "de": "Der Beste unter euch ist derjenige, der den Koran lernt und ihn lehrt.",
+      "en": "The best among you are those who learn the Qur'an and teach it."
+    },
+    "narrator": {
+      "tr": "Hz. Osman bin Affân (r.a.)",
+      "ar": "عثمان بن عفان رضي الله عنه",
+      "de": "Uthman ibn Affan (r.a.)",
+      "en": "Uthman ibn Affan (r.a.)"
+    },
+    "source": "Buhârî, Fedâilü'l-Kur'ân, 21",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 5027",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-5",
+    "arabic": "الدِّينُ النَّصِيحَةُ",
+    "translations": {
+      "tr": "Din samimiyettir (nasihattir: Allah'a, Kitabına, Resûlüne, yöneticilere ve bütün Müslümanlara karşı dürüst ve samimi olmaktır).",
+      "ar": "الدِّينُ النَّصِيحَةُ",
+      "de": "Die Religion ist Aufrichtigkeit und guter Rat.",
+      "en": "The religion is sincerity and good counsel."
+    },
+    "narrator": {
+      "tr": "Temîm ed-Dârî (r.a.)",
+      "ar": "تميم الداري رضي الله عنه",
+      "de": "Tamim ad-Dari (r.a.)",
+      "en": "Tamim ad-Dari (r.a.)"
+    },
+    "source": "Müslim, Îmân, 95",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 55",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-6",
+    "arabic": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ",
+    "translations": {
+      "tr": "Kardeşinin yüzüne tebessüm etmen senin için bir sadakadır.",
+      "ar": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ",
+      "de": "Dein Lächeln für deinen Bruder ist eine Spende (Sadaqah).",
+      "en": "Your smile for your brother is a charity for you."
+    },
+    "narrator": {
+      "tr": "Ebû Zer el-Gıfârî (r.a.)",
+      "ar": "أبو ذر الغفاري رضي الله عنه",
+      "de": "Abu Dharr al-Ghifari (r.a.)",
+      "en": "Abu Dharr al-Ghifari (r.a.)"
+    },
+    "source": "Tirmizî, Birr, 36",
+    "bookName": "Jami` at-Tirmidhi",
+    "hadithNumber": "Tirmizî 1956",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-7",
+    "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ",
+    "translations": {
+      "tr": "Allah'a ve ahiret gününe inanan kimse ya hayır söylesin ya da sussun.",
+      "ar": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ",
+      "de": "Wer an Allah und den Jüngsten Tag glaubt, der soll Gutes sprechen oder schweigen.",
+      "en": "Whoever believes in Allah and the Last Day should speak good or remain silent."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî, Edeb, 31; Müslim, Îmân, 74",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 6018",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-8",
+    "arabic": "مَنْ لاَ يَرْحَمُ لاَ يُرْحَمُ",
+    "translations": {
+      "tr": "Merhamet etmeyene merhamet olunmaz.",
+      "ar": "مَنْ لاَ يَرْحَمُ لاَ يُرْحَمُ",
+      "de": "Wer nicht barmherzig ist, dem wird keine Barmherzigkeit erwiesen.",
+      "en": "He who does not show mercy will not be shown mercy."
+    },
+    "narrator": {
+      "tr": "Cerîr bin Abdullah (r.a.)",
+      "ar": "جرير بن عبد الله رضي الله عنه",
+      "de": "Jarir ibn Abdullah (r.a.)",
+      "en": "Jarir ibn Abdullah (r.a.)"
+    },
+    "source": "Buhârî, Edeb, 18; Müslim, Fedâil, 65",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 5997",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-9",
+    "arabic": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ",
+    "translations": {
+      "tr": "Güzel söz sadakadır.",
+      "ar": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ",
+      "de": "Ein gutes Wort ist eine Spende.",
+      "en": "A good word is a charity."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî, Cihâd, 128; Müslim, Zekât, 56",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 2989",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-10",
+    "arabic": "مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ",
+    "translations": {
+      "tr": "Kim ilim tahsil etmek için bir yola girerse, Allah ona cennete giden yolu kolaylaştırır.",
+      "ar": "مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ",
+      "de": "Wer einen Weg einschlägt, um Wissen zu erlangen, dem erleichtert Allah einen Weg ins Paradies.",
+      "en": "Whoever treads a path seeking knowledge, Allah makes easy for him a path to Paradise."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim, Zikr, 38; Tirmizî, İlim, 2",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 2699",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-11",
+    "arabic": "الطَّهُورُ شَطْرُ الإِيمَانِ",
+    "translations": {
+      "tr": "Temizlik imanın yarısıdır.",
+      "ar": "الطَّهُورُ شَطْرُ الإِيمَانِ",
+      "de": "Reinheit ist die Hälfte des Glaubens.",
+      "en": "Purity is half of faith."
+    },
+    "narrator": {
+      "tr": "Ebû Mâlik el-Eş'arî (r.a.)",
+      "ar": "أبو مالك الأشعري رضي الله عنه",
+      "de": "Abu Malik al-Ash'ari (r.a.)",
+      "en": "Abu Malik al-Ash'ari (r.a.)"
+    },
+    "source": "Müslim, Tahâret, 1",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 223",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-12",
+    "arabic": "الصَّلاَةُ نُورٌ، وَالصَّدَقَةُ بُرْهَانٌ، وَالصَّبْرُ ضِيَاءٌ",
+    "translations": {
+      "tr": "Namaz nurdur, sadaka delildir (burhandır), sabır ise aydınlıktır.",
+      "ar": "الصَّلاَةُ نُورٌ، وَالصَّدَقَةُ بُرْهَانٌ، وَالصَّبْرُ ضِيَاءٌ",
+      "de": "Das Gebet ist Licht, die Spende ist ein Beweis, und Geduld ist Helligkeit.",
+      "en": "Prayer is light, charity is proof, and patience is illumination."
+    },
+    "narrator": {
+      "tr": "Ebû Mâlik el-Eş'arî (r.a.)",
+      "ar": "أبو مالك الأشعري رضي الله عنه",
+      "de": "Abu Malik al-Ash'ari (r.a.)",
+      "en": "Abu Malik al-Ash'ari (r.a.)"
+    },
+    "source": "Müslim, Tahâret, 1",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 223",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-13",
+    "arabic": "اتَّقِ اللَّهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ",
+    "translations": {
+      "tr": "Nerede olursan ol Allah'a karşı takva sahibi ol. Bir kötülüğün ardından iyilik yap ki onu silsin. İnsanlarla güzel ahlâk ile muamele et.",
+      "ar": "اتَّقِ اللَّهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ",
+      "de": "Fürchte Allah, wo immer du bist, und lass der bösen Tat eine gute folgen, die sie auslöscht, und begegne den Menschen mit gutem Charakter.",
+      "en": "Fear Allah wherever you are, follow up a bad deed with a good deed that wipes it out, and treat people with good character."
+    },
+    "narrator": {
+      "tr": "Ebû Zer ve Muâz bin Cebel (r.a.)",
+      "ar": "أبو ذر ومعاذ بن جبل رضي الله عنهما",
+      "de": "Abu Dharr & Muadh ibn Jabal (r.a.)",
+      "en": "Abu Dharr & Muadh ibn Jabal (r.a.)"
+    },
+    "source": "Tirmizî, Birr, 55",
+    "bookName": "Jami` at-Tirmidhi",
+    "hadithNumber": "Tirmizî 1987",
+    "notes": "Hasen Sahih"
+  },
+  {
+    "id": "hadith-14",
+    "arabic": "يَسِّرُوا وَلاَ تُعَسِّرُوا، وَبَشِّرُوا وَلاَ تُنَفِّرُوا",
+    "translations": {
+      "tr": "Kolaylaştırın, zorlaştırmayın; müjdeleyin, nefret ettirmeyin.",
+      "ar": "يَسِّرُوا وَلاَ تُعَسِّرُوا، وَبَشِّرُوا وَلاَ تُنَفِّرُوا",
+      "de": "Macht es leicht und macht es nicht schwer; verkündet frohe Botschaft und schreckt nicht ab.",
+      "en": "Make things easy and do not make them difficult; give glad tidings and do not repel people."
+    },
+    "narrator": {
+      "tr": "Enes bin Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "Buhârî, İlim, 11; Müslim, Cihâd, 6",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 69",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-15",
+    "arabic": "أَحَبُّ الأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ",
+    "translations": {
+      "tr": "Allah katında amellerin en sevimlisi, az da olsa devamlı olanıdır.",
+      "ar": "أَحَبُّ الأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ",
+      "de": "Die von Allah am meisten geliebten Taten sind die beständigsten, auch wenn sie gering sind.",
+      "en": "The most beloved of deeds to Allah are those that are most consistent, even if they are small."
+    },
+    "narrator": {
+      "tr": "Hz. Âişe (r.a.)",
+      "ar": "عائشة رضي الله عنها",
+      "de": "Aisha (r.a.)",
+      "en": "Aisha (r.a.)"
+    },
+    "source": "Buhârî, Rikâk, 18; Müslim, Müsâfirîn, 218",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 6464",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-16",
+    "arabic": "الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ، ارْحَمُوا مَنْ فِي الأَرْضِ يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ",
+    "translations": {
+      "tr": "Merhamet edenlere Rahmân da merhamet eder. Siz yerdekilere merhamet edin ki gökteki de size merhamet etsin.",
+      "ar": "الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ، ارْحَمُوا مَنْ فِي الأَرْضِ يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ",
+      "de": "Den Barmherzigen erweist der Allerbarmer Barmherzigkeit. Seid barmherzig zu denen auf Erden, so erbarmt sich euer Der im Himmel.",
+      "en": "The merciful will be shown mercy by the Most Merciful. Be merciful to those on the earth and the One in the heavens will have mercy upon you."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Amr (r.a.)",
+      "ar": "عبد الله بن عمرو رضي الله عنهما",
+      "de": "Abdullah ibn Amr (r.a.)",
+      "en": "Abdullah ibn Amr (r.a.)"
+    },
+    "source": "Tirmizî, Birr, 16; Ebû Dâvûd, Edeb, 58",
+    "bookName": "Jami` at-Tirmidhi",
+    "hadithNumber": "Tirmizî 1924",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-17",
+    "arabic": "إِنَّ اللَّهَ رَفِيقٌ يُحِبُّ الرِّفْقَ فِي الأَمْرِ كُلِّهِ",
+    "translations": {
+      "tr": "Şüphesiz Allah Rıfk (nezaket ve yumuşaklık) sahibidir; her işte yumuşaklığı ve nezaketi sever.",
+      "ar": "إِنَّ اللَّهَ رَفِيقٌ يُحِبُّ الرِّفْقَ فِي الأَمْرِ كُلِّهِ",
+      "de": "Wahrlich, Allah ist sanftmütig und liebt Sanftmut in allen Angelegenheiten.",
+      "en": "Indeed, Allah is gentle and loves gentleness in all matters."
+    },
+    "narrator": {
+      "tr": "Hz. Âişe (r.a.)",
+      "ar": "عائشة رضي الله عنها",
+      "de": "Aisha (r.a.)",
+      "en": "Aisha (r.a.)"
+    },
+    "source": "Buhârî, İstitâbe, 4; Müslim, Birr, 77",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 6927",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-18",
+    "arabic": "لاَ تَحَاسَدُوا، وَلاَ تَنَاجَشُوا، وَلاَ تَبَاغَضُوا، وَلاَ تَدَابَرُوا، وَكُونُوا عِبَادَ اللَّهِ إِخْوَانًا",
+    "translations": {
+      "tr": "Birbirinize haset etmeyin, birbirinize buğzetmeyin, birbirinize sırt çevirmeyin. Ey Allah'ın kulları, kardeş olun!",
+      "ar": "لاَ تَحَاسَدُوا، وَلاَ تَنَاجَشُوا، وَلاَ تَبَاغَضُوا، وَلاَ تَدَابَرُوا، وَكُونُوا عِبَادَ اللَّهِ إِخْوَانًا",
+      "de": "Beneidet einander nicht, hasst einander nicht, wendet euch nicht voneinander ab, und seid Diener Allahs, Brüder!",
+      "en": "Do not envy one another, do not hate one another, do not turn away from one another, and be servants of Allah as brothers."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim, Birr, 32; Buhârî, Edeb, 57",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 2564",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-19",
+    "arabic": "مَنْ سَرَّهُ أَنْ يُبْسَطَ لَهُ فِي رِزْقِهِ، وَأَنْ يُنْسَأَ لَهُ فِي أَثَرِهِ، فَلْيَصِلْ رَحِمَهُ",
+    "translations": {
+      "tr": "Rızkının genişletilmesini ve ömrünün uzatılmasını isteyen kimse sıla-i rahim yapsın (akrabalık bağlarını gözetsin).",
+      "ar": "مَنْ سَرَّهُ أَنْ يُبْسَطَ لَهُ فِي رِزْقِهِ، وَأَنْ يُنْسَأَ لَهُ فِي أَثَرِهِ، فَلْيَصِلْ رَحِمَهُ",
+      "de": "Wer sich wünscht, dass seine Versorgung erweitert und sein Leben gesegnet wird, der soll die Verwandtschaftsbande pflegen.",
+      "en": "Whoever loves that he be granted more wealth and that his life be prolonged, then let him keep good relations with his kith and kin."
+    },
+    "narrator": {
+      "tr": "Enes bin Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "Buhârî, Edeb, 12; Müslim, Birr, 20",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 5986",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-20",
+    "arabic": "الْمُؤْمِنُ الْقَوِيُّ خَيْرٌ وَأَحَبُّ إِلَى اللَّهِ مِنَ الْمُؤْمِنِ الضَّعِيفِ، وَفِي كُلٍّ خَيْرٌ",
+    "translations": {
+      "tr": "Kuvvetli mümin, Allah katında zayıf müminden daha hayırlı ve daha sevimlidir; bununla beraber her ikisinde de hayır vardır.",
+      "ar": "الْمُؤْمِنُ الْقَوِيُّ خَيْرٌ وَأَحَبُّ إِلَى اللَّهِ مِنَ الْمُؤْمِنِ الضَّعِيفِ، وَفِي كُلٍّ خَيْرٌ",
+      "de": "Der starke Gläubige ist besser und Allah lieber als der schwache Gläubige, doch in beiden ist Gutes.",
+      "en": "A strong believer is better and is more beloved to Allah than a weak believer, and there is good in everyone."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim, Kader, 34",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 2664",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-21",
+    "arabic": "صَلاَةُ الْجَمَاعَةِ تَفْضُلُ صَلاَةَ الْفَذِّ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً",
+    "translations": {
+      "tr": "Cemaatle kılınan namaz, tek başına kılınan namazdan yirmi yedi derece daha faziletlidir.",
+      "ar": "صَلاَةُ الْجَمَاعَةِ تَفْضُلُ صَلاَةَ الْفَذِّ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً",
+      "de": "Das Gemeinschaftsgebet ist siebenundzwanzig Grad vorzüglicher als das Gebet des Einzelnen.",
+      "en": "Prayer in congregation is twenty-seven degrees more virtuous than prayer performed alone."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Ömer (r.a.)",
+      "ar": "عبد الله بن عمر رضي الله عنهما",
+      "de": "Abdullah ibn Umar (r.a.)",
+      "en": "Abdullah ibn Umar (r.a.)"
+    },
+    "source": "Buhârî, Ezân, 30; Müslim, Mesâcid, 249",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 645",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-22",
+    "arabic": "أَقْرَبُ مَا يَكُونُ الْعَبْدُ مِنْ رَبِّهِ وَهُوَ سَاجِدٌ، فَأَكْثِرُوا الدُّعَاءَ",
+    "translations": {
+      "tr": "Kulun Rabbine en yakın olduğu an secde halidir; öyleyse secdede duayı çoğaltın.",
+      "ar": "أَقْرَبُ مَا يَكُونُ الْعَبْدُ مِنْ رَبِّهِ وَهُوَ سَاجِدٌ، فَأَكْثِرُوا الدُّعَاءَ",
+      "de": "Am nächsten ist der Diener seinem Herrn, wenn er sich niederwirft; so vermehrt das Bittgebet.",
+      "en": "The nearest a servant comes to his Lord is when he is in prostration, so supplicate much."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim, Salât, 215",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 482",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-23",
+    "arabic": "مَنْ غَدَا إِلَى الْمَسْجِدِ أَوْ رَاحَ، أَعَدَّ اللَّهُ لَهُ فِي الْجَنَّةِ نُزُلاً كُلَّمَا غَدَا أَوْ رَاحَ",
+    "translations": {
+      "tr": "Kim sabah veya akşam mescide giderse, her gidiş ve gelişinde Allah ona cennette bir konak hazırlar.",
+      "ar": "مَنْ غَدَا إِلَى الْمَسْجِدِ أَوْ رَاحَ، أَعَدَّ اللَّهُ لَهُ فِي الْجَنَّةِ نُزُلاً كُلَّمَا غَدَا أَوْ رَاحَ",
+      "de": "Wer morgens oder abends zur Moschee geht, für den bereitet Allah im Paradies eine gastliche Wohnstätte.",
+      "en": "Whoever goes to the mosque morning and evening, Allah prepares for him a place in Paradise for every journey."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî, Ezân, 37; Müslim, Mesâcid, 285",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 662",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-24",
+    "arabic": "مَنْ بَنَى مَسْجِدًا لِلَّهِ بَنَى اللَّهُ لَهُ فِي الْجَنَّةِ مِثْلَهُ",
+    "translations": {
+      "tr": "Kim Allah rızası için bir mescit inşa ederse, Allah da ona cennette onun gibi bir köşk inşa eder.",
+      "ar": "مَنْ بَنَى مَسْجِدًا لِلَّهِ بَنَى اللَّهُ لَهُ فِي الْجَنَّةِ مِثْلَهُ",
+      "de": "Wer um Allahs willen eine Moschee baut, dem baut Allah im Paradies ein Haus wie dieses.",
+      "en": "Whoever builds a mosque for the sake of Allah, Allah will build for him a house in Paradise."
+    },
+    "narrator": {
+      "tr": "Hz. Osman bin Affân (r.a.)",
+      "ar": "عثمان بن عفان رضي الله عنه",
+      "de": "Uthman ibn Affan (r.a.)",
+      "en": "Uthman ibn Affan (r.a.)"
+    },
+    "source": "Buhârî, Salât, 65; Müslim, Mesâcid, 24",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 450",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-25",
+    "arabic": "مَنْ صَلَّى الْبَرْدَيْنِ دَخَلَ الْجَنَّةَ",
+    "translations": {
+      "tr": "Kim iki serinlik namazını (Sabah ve İkindi) kılarsa cennete girer.",
+      "ar": "مَنْ صَلَّى الْبَرْدَيْنِ دَخَلَ الْجَنَّةَ",
+      "de": "Wer die zwei kühlen Gebete (Fadschr und Asr) verrichtet, wird ins Paradies eintreten.",
+      "en": "Whoever prays the two cool prayers (Fajr and Asr) will enter Paradise."
+    },
+    "narrator": {
+      "tr": "Ebû Mûsâ el-Eş'arî (r.a.)",
+      "ar": "أبو موسى الأشعري رضي الله عنه",
+      "de": "Abu Musa al-Ash'ari (r.a.)",
+      "en": "Abu Musa al-Ash'ari (r.a.)"
+    },
+    "source": "Buhârî, Mevâkît, 26; Müslim, Mesâcid, 215",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 574",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-26",
+    "arabic": "مَنْ صَلَّى الصُّبْحَ فَهُوَ فِي ذِمَّةِ اللَّهِ",
+    "translations": {
+      "tr": "Kim sabah namazını kılarsa, o Allah'ın güvencesi ve himayesi altındadır.",
+      "ar": "مَنْ صَلَّى الصُّبْحَ فَهُوَ فِي ذِمَّةِ اللَّهِ",
+      "de": "Wer das Morgengebet verrichtet, der steht unter dem Schutz Allahs.",
+      "en": "Whoever offers the morning prayer is under the protection of Allah."
+    },
+    "narrator": {
+      "tr": "Cündüb bin Abdullah (r.a.)",
+      "ar": "جندب بن عبد الله رضي الله عنه",
+      "de": "Jundub ibn Abdullah (r.a.)",
+      "en": "Jundub ibn Abdullah (r.a.)"
+    },
+    "source": "Müslim, Mesâcid, 261",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 657",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-27",
+    "arabic": "مَنْ تَوَضَّأَ فَأَحْسَنَ الْوُضُوءَ خَرَجَتْ خَطَايَاهُ مِنْ جَسَدِهِ حَتَّى تَخْرُجَ مِنْ تَحْتِ أَظْفَارِهِ",
+    "translations": {
+      "tr": "Kim güzelce abdest alırsa, günahları tırnaklarının altından varıncaya kadar bedeninden dökülür.",
+      "ar": "مَنْ تَوَضَّأَ فَأَحْسَنَ الْوُضُوءَ خَرَجَتْ خَطَايَاهُ مِنْ جَسَدِهِ حَتَّى تَخْرُجَ مِنْ تَحْتِ أَظْفَارِهِ",
+      "de": "Wer den Wudu vollzieht und ihn gut verrichtet, dessen Sünden verlassen seinen Körper.",
+      "en": "Whoever performs ablution and does it well, his sins leave his body even from beneath his nails."
+    },
+    "narrator": {
+      "tr": "Hz. Osman bin Affân (r.a.)",
+      "ar": "عثمان بن عفان رضي الله عنه",
+      "de": "Uthman ibn Affan (r.a.)",
+      "en": "Uthman ibn Affan (r.a.)"
+    },
+    "source": "Müslim, Tahâret, 33",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 245",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-28",
+    "arabic": "إِذَا سَمِعْتُمُ الْمُؤَذِّنَ فَقُولُوا مِثْلَ مَا يَقُولُ ثُمَّ صَلُّوا عَلَيَّ",
+    "translations": {
+      "tr": "Müezzini duyduğunuz zaman onun dediklerini tekrar edin, sonra da bana salavat getirin.",
+      "ar": "إِذَا سَمِعْتُمُ الْمُؤَذِّنَ فَقُولُوا مِثْلَ مَا يَقُولُ ثُمَّ صَلُّوا عَلَيَّ",
+      "de": "Wenn ihr den Gebetsrufer hört, so sprecht nach, was er sagt, und sprecht Segnungen über mich.",
+      "en": "When you hear the caller to prayer, repeat what he says, then send blessings upon me."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Amr (r.a.)",
+      "ar": "عبد الله بن عمرو رضي الله عنهما",
+      "de": "Abdullah ibn Amr (r.a.)",
+      "en": "Abdullah ibn Amr (r.a.)"
+    },
+    "source": "Müslim, Salât, 11",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 384",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-29",
+    "arabic": "الصَّلَوَاتُ الْخَمْسُ وَالْجُمُعَةُ إِلَى الْجُمُعَةِ كَفَّارَاتٌ لِمَا بَيْنَهُنَّ مَا لَمْ تُغْشَ الْكَبَائِرُ",
+    "translations": {
+      "tr": "Büyük günahlardan kaçınıldığı müddetçe beş vakit namaz ve Cuma'dan Cuma'ya aradaki küçük günahlara kefarettir.",
+      "ar": "الصَّلَوَاتُ الْخَمْسُ وَالْجُمُعَةُ إِلَى الْجُمُعَةِ كَفَّارَاتٌ لِمَا بَيْنَهُنَّ مَا لَمْ تُغْشَ الْكَبَائِرُ",
+      "de": "Die fünf täglichen Gebete und der Freitag bis zum nächsten Freitag tilgen, was dazwischen begangen wurde.",
+      "en": "The five prayers and Friday to Friday are an expiation for what is between them so long as major sins are avoided."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim, Tahâret, 16",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 233",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-30",
+    "arabic": "خَيْرُ يَوْمٍ طَلَعَتْ عَلَيْهِ الشَّمْسُ يَوْمُ الْجُمُعَةِ",
+    "translations": {
+      "tr": "Üzerine güneşin doğduğu en hayırlı gün Cuma günüdür.",
+      "ar": "خَيْرُ يَوْمٍ طَلَعَتْ عَلَيْهِ الشَّمْسُ يَوْمُ الْجُمُعَةِ",
+      "de": "Der beste Tag, an dem die Sonne aufgeht, ist der Freitag.",
+      "en": "The best day on which the sun has risen is Friday."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim, Cum'a, 17",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 854",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-31",
+    "arabic": "إِنَّ مِنْ خِيَارِكُمْ أَحْسَنَكُمْ أَخْلاَقًا",
+    "translations": {
+      "tr": "Şüphesiz sizin en hayırlınız, ahlâkı en güzel olanınızdır.",
+      "ar": "إِنَّ مِنْ خِيَارِكُمْ أَحْسَنَكُمْ أَخْلاَقًا",
+      "de": "Zu den Besten unter euch gehören die mit dem besten Charakter.",
+      "en": "The best among you are those who have the best character."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Amr (r.a.)",
+      "ar": "عبد الله بن عمرو رضي الله عنهما",
+      "de": "Abdullah ibn Amr (r.a.)",
+      "en": "Abdullah ibn Amr (r.a.)"
+    },
+    "source": "Buhârî 3559",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 3559",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-32",
+    "arabic": "أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا",
+    "translations": {
+      "tr": "Müminlerin iman bakımından en mükemmeli, ahlâkı en güzel olanıdır.",
+      "ar": "أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا",
+      "de": "Die vollkommensten Gläubigen im Glauben sind die mit dem besten Charakter.",
+      "en": "The most complete of believers in faith are those with the best character."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Tirmizî 1162",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 1162",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-33",
+    "arabic": "مَا مِنْ شَيْءٍ أَثْقَلُ فِي مِيزَانِ الْمُؤْمِنِ يَوْمَ الْقِيَامَةِ مِنْ حُسْنِ الْخُلُقِ",
+    "translations": {
+      "tr": "Kıyamet gününde müminin mizanında güzel ahlâktan daha ağır basan hiçbir şey yoktur.",
+      "ar": "مَا مِنْ شَيْءٍ أَثْقَلُ فِي مِيزَانِ الْمُؤْمِنِ يَوْمَ الْقِيَامَةِ مِنْ حُسْنِ الْخُلُقِ",
+      "de": "Nichts wiegt am Tag der Auferstehung schwerer in der Waagschale als ein guter Charakter.",
+      "en": "Nothing is heavier on the scale of a believer on the Day of Resurrection than good character."
+    },
+    "narrator": {
+      "tr": "Ebû'd-Derdâ (r.a.)",
+      "ar": "أبو الدرداء رضي الله عنه",
+      "de": "Abu ad-Darda (r.a.)",
+      "en": "Abu ad-Darda (r.a.)"
+    },
+    "source": "Tirmizî 2002",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2002",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-34",
+    "arabic": "عَلَيْكُمْ بِالصِّدْقِ، فَإِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ، وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ",
+    "translations": {
+      "tr": "Doğruluktan ayrılmayın; çünkü doğruluk iyiliğe götürür, iyilik de cennete iletir.",
+      "ar": "عَلَيْكُمْ بِالصِّدْقِ، فَإِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ، وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ",
+      "de": "Haltet euch an die Wahrhaftigkeit, denn Wahrhaftigkeit führt zur Frömmigkeit und ins Paradies.",
+      "en": "Adhere to truthfulness, for truthfulness leads to righteousness and righteousness leads to Paradise."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Mes'ûd (r.a.)",
+      "ar": "عبد الله بن مسعود رضي الله عنه",
+      "de": "Abdullah ibn Mas'ud (r.a.)",
+      "en": "Abdullah ibn Mas'ud (r.a.)"
+    },
+    "source": "Müslim 2607",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2607",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-35",
+    "arabic": "إِيَّاكُمْ وَالْكَذِبَ، فَإِنَّ الْكَذِبَ يَهْدِي إِلَى الْفُجُورِ، وَإِنَّ الْفُجُورَ يَهْدِي إِلَى النَّارِ",
+    "translations": {
+      "tr": "Yalandan sakının; çünkü yalan kötülüğe götürür, kötülük de cehenneme iletir.",
+      "ar": "إِيَّاكُمْ وَالْكَذِبَ، فَإِنَّ الْكَذِبَ يَهْدِي إِلَى الْفُجُورِ، وَإِنَّ الْفُجُورَ يَهْدِي إِلَى النَّارِ",
+      "de": "Hütet euch vor der Lüge, denn die Lüge führt zur Bosheit und ins Höllenfeuer.",
+      "en": "Beware of lying, for lying leads to wickedness, and wickedness leads to the Fire."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Mes'ûd (r.a.)",
+      "ar": "عبد الله بن مسعود رضي الله عنه",
+      "de": "Abdullah ibn Mas'ud (r.a.)",
+      "en": "Abdullah ibn Mas'ud (r.a.)"
+    },
+    "source": "Müslim 2607",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2607",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-36",
+    "arabic": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ",
+    "translations": {
+      "tr": "Gerçek pehlivan güreşte rakibini yenen değildir; asıl yiğit öfke anında nefsine hâkim olandır.",
+      "ar": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ",
+      "de": "Der Starke ist nicht derjenige, der im Ringen siegt; stark ist, wer sich im Zorn beherrscht.",
+      "en": "The strong is not the one who overcomes the people by his strength, but who controls himself while in anger."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî 6114",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 6114",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-37",
+    "arabic": "لا تَغْضَبْ، فَرَدَّدَ مِرَارًا، قَالَ: لا تَغْضَبْ",
+    "translations": {
+      "tr": "Bir adam Resûlullah'a (s.a.v.): \"Bana tavsiyede bulun\" dedi. O da: \"Öfkelenme!\" buyurdu. Adam isteğini birkaç defa tekrarladı; Resûlullah her defasında: \"Öfkelenme!\" buyurdu.",
+      "ar": "أن رجلاً قال للنبي ﷺ: أوصني، قال: لا تغضب. فردد مراراً، قال: لا تغضب.",
+      "de": "Ein Mann sagte zum Propheten (s.a.w.): \"Gib mir einen Rat!\" Er sagte: \"Werde nicht zornig!\" Der Mann wiederholte seine Bitte mehrmals, und der Prophet sagte jedes Mal: \"Werde nicht zornig!\"",
+      "en": "A man said to the Prophet (pbuh): \"Counsel me.\" He said: \"Do not become angry.\" The man repeated his request several times, and each time he said: \"Do not become angry.\""
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Huraira (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî, Edeb, 76; Tirmizî, Birr, 73",
+    "bookName": "Sahih-i Buhârî & Sünen-i Tirmizî",
+    "hadithNumber": "Buhârî 6116; Tirmizî 2020",
+    "notes": "Sahih Hadis"
+  },
+  {
+    "id": "hadith-38",
+    "arabic": "الْحَيَاءُ لاَ يَأْتِي إِلاَّ بِخَيْرٍ",
+    "translations": {
+      "tr": "Haya ancak hayır getirir.",
+      "ar": "الْحَيَاءُ لاَ يَأْتِي إِلاَّ بِخَيْرٍ",
+      "de": "Schamhaftigkeit bringt nur Gutes hervor.",
+      "en": "Modesty does not bring anything except good."
+    },
+    "narrator": {
+      "tr": "İmrân bin Husayn (r.a.)",
+      "ar": "عمران بن حصين رضي الله عنه",
+      "de": "Imran ibn Husayn (r.a.)",
+      "en": "Imran ibn Husayn (r.a.)"
+    },
+    "source": "Buhârî 6117",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 6117",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-39",
+    "arabic": "إِنَّ لِكُلِّ دِينٍ خُلُقًا، وَخُلُقُ الإِسْلاَمِ الْحَيَاءُ",
+    "translations": {
+      "tr": "Her dinin bir ahlâkı vardır; İslam'ın ahlâkı da hayadır.",
+      "ar": "إِنَّ لِكُلِّ دِينٍ خُلُقًا، وَخُلُقُ الإِسْلاَمِ الْحَيَاءُ",
+      "de": "Jede Religion hat einen grundlegenden Charakterzug; der Charakterzug des Islam ist Schamhaftigkeit.",
+      "en": "Every religion has a character, and the character of Islam is modesty."
+    },
+    "narrator": {
+      "tr": "Enes bin Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "İbn Mâce 4181",
+    "bookName": "İbn Mâce",
+    "hadithNumber": "İbn Mâce 4181",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-40",
+    "arabic": "سِبَابُ الْمُسْلِمِ فُسُوقٌ، وَقِتَالُهُ كُفْرٌ",
+    "translations": {
+      "tr": "Müslümana sövmek fâsıklık, onunla savaşmak küfürdür.",
+      "ar": "سِبَابُ الْمُسْلِمِ فُسُوقٌ، وَقِتَالُهُ كُفْرٌ",
+      "de": "Einen Muslim zu beschimpfen ist Frevel, und ihn zu bekämpfen ist Unglaube.",
+      "en": "Abusing a Muslim is an outrage and fighting against him is disbelief."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Mes'ûd (r.a.)",
+      "ar": "عبد الله بن مسعود رضي الله عنه",
+      "de": "Abdullah ibn Mas'ud (r.a.)",
+      "en": "Abdullah ibn Mas'ud (r.a.)"
+    },
+    "source": "Buhârî 48",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 48",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-41",
+    "arabic": "السَّاعِي عَلَى الأَرْمَلَةِ وَالْمِسْكِينِ كَالْمُجَاهِدِ فِي سَبِيلِ اللَّهِ",
+    "translations": {
+      "tr": "Dul ve yoksulların işlerine koşan kimse, Allah yolunda cihat eden gibidir.",
+      "ar": "السَّاعِي عَلَى الأَرْمَلَةِ وَالْمِسْكِينِ كَالْمُجَاهِدِ فِي سَبِيلِ اللَّهِ",
+      "de": "Wer sich für die Witwe und den Bedürftigen einsetzt, ist wie jemand, der auf Allahs Weg streitet.",
+      "en": "One who looks after a widow and a poor person is like a mujahid in the cause of Allah."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî 5353",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 5353",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-42",
+    "arabic": "أَنَا وَكَافِلُ الْيَتِيمِ فِي الْجَنَّةِ هَكَذَا",
+    "translations": {
+      "tr": "Ben ve yetimi koruyup gözeten kimse cennette şöylece yan yanayız.",
+      "ar": "أَنَا وَكَافِلُ الْيَتِيمِ فِي الْجَنَّةِ هَكَذَا",
+      "de": "Ich und der Fürsorger einer Waise werden im Paradies so zusammen sein.",
+      "en": "I and the one who looks after an orphan will be like this in Paradise."
+    },
+    "narrator": {
+      "tr": "Sehl bin Sa'd (r.a.)",
+      "ar": "سهل بن سعد رضي الله عنه",
+      "de": "Sahl ibn Sa'd (r.a.)",
+      "en": "Sahl ibn Sa'd (r.a.)"
+    },
+    "source": "Buhârî 5304",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 5304",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-43",
+    "arabic": "اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ",
+    "translations": {
+      "tr": "Yarım hurma ile de olsa kendinizi ateşten koruyun.",
+      "ar": "اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ",
+      "de": "Schützt euch vor dem Höllenfeuer, und sei es mit einer halben Dattel.",
+      "en": "Save yourself from Hellfire even by giving half a date in charity."
+    },
+    "narrator": {
+      "tr": "Adiyy bin Hâtim (r.a.)",
+      "ar": "عدي بن حاتم رضي الله عنه",
+      "de": "Adi ibn Hatim (r.a.)",
+      "en": "Adi ibn Hatim (r.a.)"
+    },
+    "source": "Buhârî 1417",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 1417",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-44",
+    "arabic": "إِذَا مَاتَ الإِنْسَانُ انْقَطَعَ عَنْهُ عَمَلُهُ إِلاَّ مِنْ ثَلاَثَةٍ: صَدَقَةٍ جَارِيَةٍ، أَوْ عِلْمٍ يُنْتَفَعُ بِهِ، أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ",
+    "translations": {
+      "tr": "İnsan ölünce üç şey dışında ameli kesilir: Sadaka-i câriye, faydalanılan ilim veya kendisine dua eden salih bir evlat.",
+      "ar": "إِذَا مَاتَ الإِنْسَانُ انْقَطَعَ عَنْهُ عَمَلُهُ إِلاَّ مِنْ ثَلاَثَةٍ: صَدَقَةٍ جَارِيَةٍ، أَوْ عِلْمٍ يُنْتَفَعُ بِهِ، أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ",
+      "de": "Wenn der Mensch stirbt, enden seine Taten außer dreien: Fortdauernde Spende, nützliches Wissen oder ein rechtschaffenes Kind, das bittet.",
+      "en": "When a man dies, all his good deeds come to an end except three: Ongoing charity, beneficial knowledge, or a righteous child who prays for him."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 1631",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 1631",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-45",
+    "arabic": "مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ، وَمَا زَادَ اللَّهُ عَبْدًا بِعَفْوٍ إِلاَّ عِزًّا",
+    "translations": {
+      "tr": "Sadaka vermekle mal eksilmez. Allah affeden kulunun ancak izzetini artırır.",
+      "ar": "مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ، وَمَا زَادَ اللَّهُ عَبْدًا بِعَفْوٍ إِلاَّ عِزًّا",
+      "de": "Eine Spende mindert kein Vermögen, und Allah mehrt durch Vergebung nur die Ehre Seines Dieners.",
+      "en": "Charity does not decrease wealth, and Allah increases the honor of him who forgives."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 2588",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2588",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-46",
+    "arabic": "الْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى",
+    "translations": {
+      "tr": "Veren el, alan elden daha hayırlıdır.",
+      "ar": "الْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى",
+      "de": "Die obere gebende Hand ist besser als die untere nehmende Hand.",
+      "en": "The upper hand is better than the lower hand."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Ömer (r.a.)",
+      "ar": "عبد الله بن عمر رضي الله عنهما",
+      "de": "Abdullah ibn Umar (r.a.)",
+      "en": "Abdullah ibn Umar (r.a.)"
+    },
+    "source": "Buhârî 1429",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 1429",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-47",
+    "arabic": "كُلُّ مَعْرُوفٍ صَدَقَةٌ",
+    "translations": {
+      "tr": "Her meşru iyilik bir sadakadır.",
+      "ar": "كُلُّ مَعْرُوفٍ صَدَقَةٌ",
+      "de": "Jede gute Tat ist eine Spende.",
+      "en": "Every good act is charity."
+    },
+    "narrator": {
+      "tr": "Câbir bin Abdullah (r.a.)",
+      "ar": "جابر بن عبد الله رضي الله عنه",
+      "de": "Jabir ibn Abdullah (r.a.)",
+      "en": "Jabir ibn Abdullah (r.a.)"
+    },
+    "source": "Buhârî 6021",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 6021",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-48",
+    "arabic": "مَنْ نَفَّسَ عَنْ مُؤْمِنٍ كُرْبَةً مِنْ كُرَبِ الدُّنْيَا، نَفَّسَ اللَّهُ عَنْهُ كُرْبَةً مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ",
+    "translations": {
+      "tr": "Kim bir müminin dünyadaki bir sıkıntısını giderirse, Allah da onun kıyamet günü sıkıntılarından birini giderir.",
+      "ar": "مَنْ نَفَّسَ عَنْ مُؤْمِنٍ كُرْبَةً مِنْ كُرَبِ الدُّنْيَا، نَفَّسَ اللَّهُ عَنْهُ كُرْبَةً مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ",
+      "de": "Wer einem Gläubigen eine Sorge nimmt, dem nimmt Allah eine Sorge am Tag der Auferstehung.",
+      "en": "Whoever relieves a believer of a distress from the distresses of this world, Allah will relieve him of a distress on the Day of Resurrection."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 2699",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2699",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-49",
+    "arabic": "وَاللَّهُ فِي عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِي عَوْنِ أَخِيهِ",
+    "translations": {
+      "tr": "Kul kardeşine yardım ettiği sürece Allah da o kula yardım eder.",
+      "ar": "وَاللَّهُ فِي عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِي عَوْنِ أَخِيهِ",
+      "de": "Allah steht dem Diener bei, solange der Diener seinem Bruder beisteht.",
+      "en": "Allah continues to help the servant as long as the servant is helping his brother."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 2699",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2699",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-50",
+    "arabic": "رِضَا الرَّبِّ فِي رِضَا الْوَالِدِ، وَسَخَطُ الرَّبِّ فِي سَخَطِ الْوَالِدِ",
+    "translations": {
+      "tr": "Rabbin rızası anne-babanın rızasındadır; Rabbin gazabı da anne-babanın gazabındadır.",
+      "ar": "رِضَا الرَّبِّ فِي رِضَا الْوَالِدِ، وَسَخَطُ الرَّبِّ فِي سَخَطِ الْوَالِدِ",
+      "de": "Das Wohlgefallen des Herrn liegt im Wohlgefallen der Eltern, und Sein Zorn liegt im Zorn der Eltern.",
+      "en": "The pleasure of the Lord lies in the pleasure of the parents, and the anger of the Lord lies in the anger of the parents."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Amr (r.a.)",
+      "ar": "عبد الله بن عمرو رضي الله عنهما",
+      "de": "Abdullah ibn Amr (r.a.)",
+      "en": "Abdullah ibn Amr (r.a.)"
+    },
+    "source": "Tirmizî 1899",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 1899",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-51",
+    "arabic": "خَيْرُكُمْ خَيْرُكُمْ لأَهْلِهِ، وَأَنَا خَيْرُكُمْ لأَهْلِي",
+    "translations": {
+      "tr": "Sizin en hayırlınız, ailesine karşı en hayırlı olanınızdır. Ben de aileme karşı en hayırlı olanınızım.",
+      "ar": "خَيْرُكُمْ خَيْرُكُمْ لأَهْلِهِ، وَأَنَا خَيْرُكُمْ لأَهْلِي",
+      "de": "Der Beste unter euch ist derjenige, der am besten zu seiner Familie ist, und ich bin der Beste zu meiner Familie.",
+      "en": "The best of you is the one who is best to his family, and I am the best to my family."
+    },
+    "narrator": {
+      "tr": "Hz. Âişe (r.a.)",
+      "ar": "عائشة رضي الله عنها",
+      "de": "Aisha (r.a.)",
+      "en": "Aisha (r.a.)"
+    },
+    "source": "Tirmizî 3895",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 3895",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-52",
+    "arabic": "لاَ يَدْخُلُ الْجَنَّةَ قَاطِعُ رَحِمٍ",
+    "translations": {
+      "tr": "Akrabalık bağlarını koparan cennete giremez.",
+      "ar": "لاَ يَدْخُلُ الْجَنَّةَ قَاطِعُ رَحِمٍ",
+      "de": "Wer die Verwandtschaftsbande zerschneidet, wird nicht ins Paradies eintreten.",
+      "en": "The person who severs the bond of kinship will not enter Paradise."
+    },
+    "narrator": {
+      "tr": "Cübeyr bin Mut'ım (r.a.)",
+      "ar": "جبير بن مطعم رضي الله عنه",
+      "de": "Jubayr ibn Mut'im (r.a.)",
+      "en": "Jubayr ibn Mut'im (r.a.)"
+    },
+    "source": "Buhârî 5984",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 5984",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-53",
+    "arabic": "مَا زَالَ جِبْرِيلُ يُوصِينِي بِالْجَارِ حَتَّى ظَنَنْتُ أَنَّهُ سَيُوَرِّثُهُ",
+    "translations": {
+      "tr": "Cebrail bana komşu hakkını o kadar tavsiye etti ki neredeyse komşuyu komşuya mirasçı kılacak zannettim.",
+      "ar": "مَا زَالَ جِبْرِيلُ يُوصِينِي بِالْجَارِ حَتَّى ظَنَنْتُ أَنَّهُ سَيُوَرِّثُهُ",
+      "de": "Dschibril empfahl mir das Wohlwollen gegenüber dem Nachbarn so sehr, dass ich glaubte, er würde ihn erben lassen.",
+      "en": "Gabriel continued to advise me about the neighbor until I thought he would make him an heir."
+    },
+    "narrator": {
+      "tr": "Hz. Âişe (r.a.)",
+      "ar": "عائشة رضي الله عنها",
+      "de": "Aisha (r.a.)",
+      "en": "Aisha (r.a.)"
+    },
+    "source": "Buhârî 6014",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 6014",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-54",
+    "arabic": "لاَ يَدْخُلُ الْجَنَّةَ مَنْ لاَ يَأْمَنُ جَارُهُ بَوَائِقَهُ",
+    "translations": {
+      "tr": "Komşusunun şerrinden ve kötülüklerinden emin olmadığı kimse cennete giremez.",
+      "ar": "لاَ يَدْخُلُ الْجَنَّةَ مَنْ لاَ يَأْمَنُ جَارُهُ بَوَائِقَهُ",
+      "de": "Wer seinen Nachbarn vor seinen Übeltaten nicht sicher sein lässt, betritt nicht das Paradies.",
+      "en": "He will not enter Paradise whose neighbor is not safe from his harm."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 46",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 46",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-55",
+    "arabic": "تَهَادَوْا تَحَابُّوا",
+    "translations": {
+      "tr": "Birbirinize hediye verin ki birbirinizi sevesiniz.",
+      "ar": "تَهَادَوْا تَحَابُّوا",
+      "de": "Macht einander Geschenke, so werdet ihr euch lieben.",
+      "en": "Exchange gifts, and you will love one another."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî, el-Edebü'l-Müfred",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî, el-Edebü'l-Müfred",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-56",
+    "arabic": "إِنَّ اللَّهَ كَتَبَ الإِحْسَانَ عَلَى كُلِّ شَيْءٍ",
+    "translations": {
+      "tr": "Şüphesiz ki Allah, her şeyde ihsanı (iyiliği ve işi en güzel biçimde yapmayı) farz kılmıştır.",
+      "ar": "إن الله كتب الإحسان على كل شيء.",
+      "de": "Gewiss, Allah hat die Vollkommenheit und Güte (Ihsan) in allen Dingen vorgeschrieben.",
+      "en": "Verily, Allah has prescribed excellence and good conduct in all things."
+    },
+    "narrator": {
+      "tr": "Şeddâd b. Evs (r.a.)",
+      "ar": "شداد بن أوس رضي الله عنه",
+      "de": "Schaddad ibn Aus (r.a.)",
+      "en": "Shaddad ibn Aws (r.a.)"
+    },
+    "source": "Müslim, Sayd, 57; Ebû Dâvûd, Edâhî, 11; Tirmizî, Diyât, 14",
+    "bookName": "Sahih-i Müslim",
+    "hadithNumber": "Müslim 1955",
+    "notes": "Sahih Hadis"
+  },
+  {
+    "id": "hadith-57",
+    "arabic": "لاَ يَدْخُلُ الْجَنَّةَ نَمَّامٌ",
+    "translations": {
+      "tr": "Koğuculuk (söz taşıyan) yapan kimse cennete giremez.",
+      "ar": "لاَ يَدْخُلُ الْجَنَّةَ نَمَّامٌ",
+      "de": "Ein Verleumder tritt nicht ins Paradies ein.",
+      "en": "A tale-bearer will not enter Paradise."
+    },
+    "narrator": {
+      "tr": "Huzeyfe",
+      "ar": "Huzeyfe",
+      "de": "Huzeyfe",
+      "en": "Huzeyfe"
+    },
+    "source": "Buhârî 6056",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 6056",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-58",
+    "arabic": "الْمُؤْمِنُ مِرْآةُ أَخِيهِ الْمُؤْمِنِ",
+    "translations": {
+      "tr": "Mümin, mümin kardeşinin aynasıdır.",
+      "ar": "الْمُؤْمِنُ مِرْآةُ أَخِيهِ الْمُؤْمِنِ",
+      "de": "Der Gläubige ist der Spiegel seines Bruders.",
+      "en": "A believer is the mirror of his brother."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Ebû Dâvûd 4918",
+    "bookName": "Ebû Dâvûd",
+    "hadithNumber": "Ebû Dâvûd 4918",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-59",
+    "arabic": "الْمُسْلِمُ أَخُو الْمُسْلِمِ لاَ يَظْلِمُهُ وَلاَ يُسْلِمُهُ",
+    "translations": {
+      "tr": "Müslüman Müslümanın kardeşidir; ona zulmetmez ve onu düşmana teslim etmez.",
+      "ar": "الْمُسْلِمُ أَخُو الْمُسْلِمِ لاَ يَظْلِمُهُ وَلاَ يُسْلِمُهُ",
+      "de": "Der Muslim ist der Bruder des Muslims; er tut ihm kein Unrecht und liefert ihn nicht aus.",
+      "en": "A Muslim is the brother of a Muslim: he neither oppresses him nor hands him over."
+    },
+    "narrator": {
+      "tr": "İbn Ömer",
+      "ar": "İbn Ömer",
+      "de": "İbn Ömer",
+      "en": "İbn Ömer"
+    },
+    "source": "Buhârî 2442",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 2442",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-60",
+    "arabic": "حَقُّ الْمُسْلِمِ عَلَى الْمُسْلِمِ سِتٌّ",
+    "translations": {
+      "tr": "Müslümanın Müslüman üzerindeki hakkı altıdır: Selam verince selamını almak, davet edince icabet etmek, nasihat isteyince samimi davranmak, hapşırınca yerhamukellah demek, hastalanınca ziyaret etmek ve vefat edince cenazesine katılmak.",
+      "ar": "حَقُّ الْمُسْلِمِ عَلَى الْمُسْلِمِ سِتٌّ",
+      "de": "Die Pflichten des Muslims gegenüber dem Muslim sind sechs: Den Gruß erwidern, Einladungen annehmen, Rat geben, beim Niesen segnen, Krankenbesuch und Totengebet.",
+      "en": "The rights of a Muslim upon another are six: To return greetings, accept invitations, give advice, bless upon sneezing, visit the sick, and attend the funeral."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 2162",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2162",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-61",
+    "arabic": "عُودُوا الْمَرِيضَ، وَأَطْعِمُوا الْجَائِعَ، وَفُكُّوا الْعَانِيَ",
+    "translations": {
+      "tr": "Hastayı ziyaret edin, açı doyurun ve esiri kurtarın.",
+      "ar": "عُودُوا الْمَرِيضَ، وَأَطْعِمُوا الْجَائِعَ، وَفُكُّوا الْعَانِيَ",
+      "de": "Besucht die Kranken, speist die Hungrigen und befreit die Gefangenen.",
+      "en": "Visit the sick, feed the hungry, and free the captive."
+    },
+    "narrator": {
+      "tr": "Ebû Mûsâ el-Eş'arî",
+      "ar": "Ebû Mûsâ el-Eş'arî",
+      "de": "Ebû Mûsâ el-Eş'arî",
+      "en": "Ebû Mûsâ el-Eş'arî"
+    },
+    "source": "Buhârî 5373",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 5373",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-62",
+    "arabic": "إِنَّ اللَّهَ يُعَذِّبُ الَّذِينَ يُعَذِّبُونَ النَّاسَ فِي الدُّنْيَا",
+    "translations": {
+      "tr": "Şüphesiz Allah, dünyada insanlara işkence ve eziyet edenlere azap eder.",
+      "ar": "إِنَّ اللَّهَ يُعَذِّبُ الَّذِينَ يُعَذِّبُونَ النَّاسَ فِي الدُّنْيَا",
+      "de": "Gewiss, Allah straft diejenigen, die den Menschen im Diesseits Leid zufügen.",
+      "en": "Allah will punish those who torment people in this world."
+    },
+    "narrator": {
+      "tr": "Hişâm bin Hakîm",
+      "ar": "Hişâm bin Hakîm",
+      "de": "Hişâm bin Hakîm",
+      "en": "Hişâm bin Hakîm"
+    },
+    "source": "Müslim 2613",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2613",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-63",
+    "arabic": "لاَ يَحِلُّ لِمُسْلِمٍ أَنْ يَهْجُرَ أَخَاهُ فَوْقَ ثَلاَثِ لَيَالٍ",
+    "translations": {
+      "tr": "Bir Müslümanın din kardeşine üç günden fazla küs durması helal değildir.",
+      "ar": "لاَ يَحِلُّ لِمُسْلِمٍ أَنْ يَهْجُرَ أَخَاهُ فَوْقَ ثَلاَثِ لَيَالٍ",
+      "de": "Es ist einem Muslim nicht erlaubt, seinen Bruder länger als drei Nächte zu meiden.",
+      "en": "It is not permissible for a Muslim to abandon his brother for more than three days."
+    },
+    "narrator": {
+      "tr": "Ebû Eyyûb el-Ensârî",
+      "ar": "Ebû Eyyûb el-Ensârî",
+      "de": "Ebû Eyyûb el-Ensârî",
+      "en": "Ebû Eyyûb el-Ensârî"
+    },
+    "source": "Buhârî 6077",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 6077",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-64",
+    "arabic": "انْصُرْ أَخَاكَ ظَالِمًا أَوْ مَظْلُومًا",
+    "translations": {
+      "tr": "Kardeşine zalim de olsa mazlum da olsa yardım et. Dediler ki: Mazluma yardım ederiz, peki zalime nasıl yardım edeceğiz? Buyurdu ki: Onu zulmünden alıkoyarak!",
+      "ar": "انْصُرْ أَخَاكَ ظَالِمًا أَوْ مَظْلُومًا",
+      "de": "Hilf deinem Bruder, ob er Unrecht tut oder Unrecht erleidet: Indem du ihn vom Unrecht abhieltest!",
+      "en": "Help your brother whether he is an oppressor or an oppressed: by stopping him from oppressing!"
+    },
+    "narrator": {
+      "tr": "Enes bin Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "Buhârî 2444",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 2444",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-65",
+    "arabic": "مَنْ غَشَّنَا فَلَيْسَ مِنَّا",
+    "translations": {
+      "tr": "Bizi aldatan bizden değildir.",
+      "ar": "مَنْ غَشَّنَا فَلَيْسَ مِنَّا",
+      "de": "Wer uns täuscht, gehört nicht zu uns.",
+      "en": "Whoever cheats us is not of us."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 101",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 101",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-66",
+    "arabic": "لَوْ أَنَّكُمْ تَتَوَكَّلُونَ عَلَى اللَّهِ حَقَّ تَوَكُّلِهِ لَرَزَقَكُمْ كَمَا يَرْزُقُ الطَّيْرَ",
+    "translations": {
+      "tr": "Eğer siz Allah'a hakkıyla tevekkül etseydiniz, sabah aç çıkıp akşam tok dönen kuşları rızıklandırdığı gibi sizi de rızıklandırırdı.",
+      "ar": "لَوْ أَنَّكُمْ تَتَوَكَّلُونَ عَلَى اللَّهِ حَقَّ تَوَكُّلِهِ لَرَزَقَكُمْ كَمَا يَرْزُقُ الطَّيْرَ",
+      "de": "Wenn ihr wahrhaft auf Allah vertrauen würdet, würde Er euch versorgen, wie Er die Vögel versorgt.",
+      "en": "If you were to rely upon Allah with the required reliance, He would provide for you just as He provides for the birds."
+    },
+    "narrator": {
+      "tr": "Ömer bin Hattâb",
+      "ar": "Ömer bin Hattâb",
+      "de": "Ömer bin Hattâb",
+      "en": "Ömer bin Hattâb"
+    },
+    "source": "Tirmizî 2344",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2344",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-67",
+    "arabic": "احْفَظِ اللَّهَ يَحْفَظْكَ، احْفَظِ اللَّهَ تَجِدْهُ تُجَاهَكَ",
+    "translations": {
+      "tr": "Allah'ın buyruklarını koru ki Allah da seni korusun; Allah'ı gözet ki O'nu karşında bulasın.",
+      "ar": "احْفَظِ اللَّهَ يَحْفَظْكَ، احْفَظِ اللَّهَ تَجِدْهُ تُجَاهَكَ",
+      "de": "Bewahre Allahs Gebote, so bewahrt Er dich; bewahre Seine Gebote, so findest du Ihn vor dir.",
+      "en": "Be mindful of Allah and Allah will protect you. Be mindful of Allah and you will find Him before you."
+    },
+    "narrator": {
+      "tr": "İbn Abbâs (r.a.)",
+      "ar": "عبد الله بن عباس رضي الله عنهما",
+      "de": "Ibn Abbas (r.a.)",
+      "en": "Ibn Abbas (r.a.)"
+    },
+    "source": "Tirmizî 2516",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2516",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-68",
+    "arabic": "إِذَا سَأَلْتَ فَاسْأَلِ اللَّهَ، وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاللَّهِ",
+    "translations": {
+      "tr": "Bir şey isteyeceğin zaman Allah'tan iste; yardım dileyeceğin zaman Allah'tan yardım dile.",
+      "ar": "إِذَا سَأَلْتَ فَاسْأَلِ اللَّهَ، وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاللَّهِ",
+      "de": "Wenn du bittest, so bitte Allah, und wenn du Hilfe suchst, so suche Hilfe bei Allah.",
+      "en": "When you ask, ask Allah; and when you seek help, seek help from Allah."
+    },
+    "narrator": {
+      "tr": "İbn Abbâs (r.a.)",
+      "ar": "عبد الله بن عباس رضي الله عنهما",
+      "de": "Ibn Abbas (r.a.)",
+      "en": "Ibn Abbas (r.a.)"
+    },
+    "source": "Tirmizî 2516",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2516",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-69",
+    "arabic": "الْعُلَمَاءُ وَرَثَةُ الأَنْبِيَاءِ",
+    "translations": {
+      "tr": "Âlimler peygamberlerin varisleridir.",
+      "ar": "الْعُلَمَاءُ وَرَثَةُ الأَنْبِيَاءِ",
+      "de": "Die Gelehrten sind die Erben der Propheten.",
+      "en": "The scholars are the heirs of the Prophets."
+    },
+    "narrator": {
+      "tr": "Ebû'd-Derdâ (r.a.)",
+      "ar": "أبو الدرداء رضي الله عنه",
+      "de": "Abu ad-Darda (r.a.)",
+      "en": "Abu ad-Darda (r.a.)"
+    },
+    "source": "Ebû Dâvûd 3641",
+    "bookName": "Ebû Dâvûd",
+    "hadithNumber": "Ebû Dâvûd 3641",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-70",
+    "arabic": "فَضْلُ الْعَالِمِ عَلَى الْعَابِدِ كَفَضْلِ الْقَمَرِ لَيْلَةَ الْبَدْرِ عَلَى سَائِرِ الْكَوَاكِبِ",
+    "translations": {
+      "tr": "Âlimin abide üstünlüğü, dolunayın diğer yıldızlara olan parlaklık üstünlüğü gibidir.",
+      "ar": "فَضْلُ الْعَالِمِ عَلَى الْعَابِدِ كَفَضْلِ الْقَمَرِ لَيْلَةَ الْبَدْرِ عَلَى سَائِرِ الْكَوَاكِبِ",
+      "de": "Der Vorzug des Wissenden vor dem bloß Betenden ist wie der Vorzug des Vollmonds vor den Sternen.",
+      "en": "The superiority of the scholar over the devout worshipper is like that of the full moon over the other stars."
+    },
+    "narrator": {
+      "tr": "Ebû'd-Derdâ (r.a.)",
+      "ar": "أبو الدرداء رضي الله عنه",
+      "de": "Abu ad-Darda (r.a.)",
+      "en": "Abu ad-Darda (r.a.)"
+    },
+    "source": "Ebû Dâvûd 3641",
+    "bookName": "Ebû Dâvûd",
+    "hadithNumber": "Ebû Dâvûd 3641",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-71",
+    "arabic": "إِنَّ اللَّهَ لاَ يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ، وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ",
+    "translations": {
+      "tr": "Şüphesiz Allah sizin suretlerinize ve mallarınıza bakmaz; ancak kalplerinize ve amellerinize bakar.",
+      "ar": "إِنَّ اللَّهَ لاَ يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ، وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ",
+      "de": "Allah schaut nicht auf eure Gestalten und euer Vermögen, sondern Er schaut auf eure Herzen und Taten.",
+      "en": "Verily, Allah does not look at your appearance or your wealth, but rather He looks at your hearts and deeds."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 2564",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2564",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-72",
+    "arabic": "التَّقْوَى هَاهُنَا – وَيُشِيرُ إِلَى صَدْرِهِ ثَلاَثَ مَرَّاتٍ",
+    "translations": {
+      "tr": "Takva işte şuradadır – buyurdu ve göğsüne üç defa işaret etti.",
+      "ar": "التَّقْوَى هَاهُنَا – وَيُشِيرُ إِلَى صَدْرِهِ ثَلاَثَ مَرَّاتٍ",
+      "de": "Die Gottesfurcht ist hier – und er deutete dreimal auf seine Brust.",
+      "en": "Taqwa is right here – and he pointed to his chest three times."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 2564",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2564",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-73",
+    "arabic": "مَنْ قَرَأَ حَرْفًا مِنْ كِتَابِ اللَّهِ فَلَهُ بِهِ حَسَنَةٌ، وَالْحَسَنَةُ بِعَشْرِ أَمْثَالِهَا",
+    "translations": {
+      "tr": "Kim Allah'ın Kitabı'ndan bir harf okursa ona bir sevap vardır; o sevap da on misliyle katlanır.",
+      "ar": "مَنْ قَرَأَ حَرْفًا مِنْ كِتَابِ اللَّهِ فَلَهُ بِهِ حَسَنَةٌ، وَالْحَسَنَةُ بِعَشْرِ أَمْثَالِهَا",
+      "de": "Wer einen Buchstaben aus dem Buch Allahs liest, erhält dafür eine gute Tat, und diese verzehnfacht.",
+      "en": "Whoever recites a letter from the Book of Allah gets a reward, and that reward is multiplied tenfold."
+    },
+    "narrator": {
+      "tr": "İbn Mes'ûd",
+      "ar": "İbn Mes'ûd",
+      "de": "İbn Mes'ûd",
+      "en": "İbn Mes'ûd"
+    },
+    "source": "Tirmizî 2910",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2910",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-74",
+    "arabic": "اقْرَءُوا الْقُرْآنَ فَإِنَّهُ يَأْتِي يَوْمَ الْقِيَامَةِ شَفِيعًا لأَصْحَابِهِ",
+    "translations": {
+      "tr": "Kur'an'ı okuyun; çünkü o kıyamet gününde kendisini okuyanlara şefaatçi olarak gelecektir.",
+      "ar": "اقْرَءُوا الْقُرْآنَ فَإِنَّهُ يَأْتِي يَوْمَ الْقِيَامَةِ شَفِيعًا لأَصْحَابِهِ",
+      "de": "Lest den Koran, denn er wird am Tag der Auferstehung als Fürsprecher für seine Gefährten kommen.",
+      "en": "Read the Qur'an, for it will come on the Day of Resurrection as an intercessor for its companions."
+    },
+    "narrator": {
+      "tr": "Ebû Ümâme",
+      "ar": "Ebû Ümâme",
+      "de": "Ebû Ümâme",
+      "en": "Ebû Ümâme"
+    },
+    "source": "Müslim 804",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 804",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-75",
+    "arabic": "الْمَاهِرُ بِالْقُرْآنِ مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ",
+    "translations": {
+      "tr": "Kur'an'ı maharetle okuyan kimse, şerefli ve itaatkâr meleklerle beraberdir.",
+      "ar": "الْمَاهِرُ بِالْقُرْآنِ مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ",
+      "de": "Wer den Koran meisterhaft liest, ist mit den edlen Engeln zusammen.",
+      "en": "The one who is proficient in the Qur'an will be with the noble righteous scribes."
+    },
+    "narrator": {
+      "tr": "Hz. Âişe (r.a.)",
+      "ar": "عائشة رضي الله عنها",
+      "de": "Aisha (r.a.)",
+      "en": "Aisha (r.a.)"
+    },
+    "source": "Buhârî 4937",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 4937",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-76",
+    "arabic": "مَثَلُ الَّذِي يَذْكُرُ رَبَّهُ وَالَّذِي لاَ يَذْكُرُ رَبَّهُ مَثَلُ الْحَيِّ وَالْمَيِّتِ",
+    "translations": {
+      "tr": "Rabbini zikreden ile zikretmeyenin misali, diri ile ölünün misali gibidir.",
+      "ar": "مَثَلُ الَّذِي يَذْكُرُ رَبَّهُ وَالَّذِي لاَ يَذْكُرُ رَبَّهُ مَثَلُ الْحَيِّ وَالْمَيِّتِ",
+      "de": "Das Gleichnis dessen, der seines Herrn gedenkt, und dessen, der Seiner nicht gedenkt, ist wie das von Lebendigen und Toten.",
+      "en": "The example of the one who remembers his Lord and the one who does not is like that of the living and the dead."
+    },
+    "narrator": {
+      "tr": "Ebû Mûsâ el-Eş'arî",
+      "ar": "Ebû Mûsâ el-Eş'arî",
+      "de": "Ebû Mûsâ el-Eş'arî",
+      "en": "Ebû Mûsâ el-Eş'arî"
+    },
+    "source": "Buhârî 6407",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 6407",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-77",
+    "arabic": "لاَ يَزَالُ لِسَانُكَ رَطْبًا مِنْ ذِكْرِ اللَّهِ",
+    "translations": {
+      "tr": "Dilin daima Allah'ın zikriyle ıslak kalsın.",
+      "ar": "لاَ يَزَالُ لِسَانُكَ رَطْبًا مِنْ ذِكْرِ اللَّهِ",
+      "de": "Lass deine Zunge stets feucht bleiben vom Gedenken Allahs.",
+      "en": "Keep your tongue moist with the remembrance of Allah."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Büsr",
+      "ar": "Abdullah bin Büsr",
+      "de": "Abdullah bin Büsr",
+      "en": "Abdullah bin Büsr"
+    },
+    "source": "Tirmizî 3375",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 3375",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-78",
+    "arabic": "مَنْ صَلَّى عَلَيَّ فِي يَوْمٍ أَلْفَ مَرَّةٍ لَمْ يَمُتْ حَتَّى يُبَشَّرَ بِالْجَنَّةِ",
+    "translations": {
+      "tr": "Bana çokça salat ve selam getirin; şüphesiz salavatınız bana arz olunur.",
+      "ar": "مَنْ صَلَّى عَلَيَّ فِي يَوْمٍ أَلْفَ مَرَّةٍ لَمْ يَمُتْ حَتَّى يُبَشَّرَ بِالْجَنَّةِ",
+      "de": "Sprecht häufig Segnungen über mich aus; eure Segenswünsche erreichen mich wahrhaftig.",
+      "en": "Send blessings upon me abundantly, for your blessings are presented to me."
+    },
+    "narrator": {
+      "tr": "Evs bin Evs",
+      "ar": "Evs bin Evs",
+      "de": "Evs bin Evs",
+      "en": "Evs bin Evs"
+    },
+    "source": "Ebû Dâvûd 1047",
+    "bookName": "Ebû Dâvûd",
+    "hadithNumber": "Ebû Dâvûd 1047",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-79",
+    "arabic": "بِسْمِ اللَّهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "translations": {
+      "tr": "İsmi anıldığında yerde ve gökte hiçbir şeyin zarar veremeyeceği Allah'ın adıyla! O Semî'dir, Alîm'dir.",
+      "ar": "بِسْمِ اللَّهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "de": "Im Namen Allahs, mit Dessen Namen nichts auf Erden noch im Himmel schaden kann; Er ist der Allhörende, der Allwissende.",
+      "en": "In the name of Allah, with whose name nothing can cause harm in the earth nor in the heavens, and He is the All-Hearing, All-Knowing."
+    },
+    "narrator": {
+      "tr": "Hz. Osman",
+      "ar": "Hz. Osman",
+      "de": "Hz. Osman",
+      "en": "Hz. Osman"
+    },
+    "source": "Tirmizî 3388",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 3388",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-80",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ",
+    "translations": {
+      "tr": "Allah'ım! Senden dünyada ve ahirette af ve afiyet (sağlık ve esenlik) dilerim.",
+      "ar": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ",
+      "de": "O Allah, ich bitte Dich um Vergebung und Wohlergehen im Diesseits und im Jenseits.",
+      "en": "O Allah, I ask You for pardon and well-being in this world and the Hereafter."
+    },
+    "narrator": {
+      "tr": "İbn Ömer",
+      "ar": "İbn Ömer",
+      "de": "İbn Ömer",
+      "en": "İbn Ömer"
+    },
+    "source": "Ebû Dâvûd 5074",
+    "bookName": "Ebû Dâvûd",
+    "hadithNumber": "Ebû Dâvûd 5074",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-81",
+    "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+    "translations": {
+      "tr": "Allah'ım! Seni anmak, sana şükretmek ve sana güzelce kulluk etmek için bana yardım et.",
+      "ar": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+      "de": "O Allah, hilf mir, Deiner zu gedenken, Dir zu danken und Dir auf beste Weise zu dienen.",
+      "en": "O Allah, help me to remember You, thank You, and worship You in the best manner."
+    },
+    "narrator": {
+      "tr": "Muâz bin Cebel",
+      "ar": "Muâz bin Cebel",
+      "de": "Muâz bin Cebel",
+      "en": "Muâz bin Cebel"
+    },
+    "source": "Ebû Dâvûd 1522",
+    "bookName": "Ebû Dâvûd",
+    "hadithNumber": "Ebû Dâvûd 1522",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-82",
+    "arabic": "مَنْ أَحَبَّ لِقَاءَ اللَّهِ أَحَبَّ اللَّهُ لِقَاءَهُ",
+    "translations": {
+      "tr": "Kim Allah'a kavuşmayı severse Allah da ona kavuşmayı sever.",
+      "ar": "مَنْ أَحَبَّ لِقَاءَ اللَّهِ أَحَبَّ اللَّهُ لِقَاءَهُ",
+      "de": "Wer die Begegnung mit Allah liebt, dessen Begegnung liebt Allah.",
+      "en": "Whoever loves to meet Allah, Allah loves to meet him."
+    },
+    "narrator": {
+      "tr": "Hz. Âişe (r.a.)",
+      "ar": "عائشة رضي الله عنها",
+      "de": "Aisha (r.a.)",
+      "en": "Aisha (r.a.)"
+    },
+    "source": "Buhârî 6507",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 6507",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-83",
+    "arabic": "كُونُوا فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ أَوْ عَابِرُ سَبِيلٍ",
+    "translations": {
+      "tr": "Dünyada bir garip yahut bir yolcu gibi ol.",
+      "ar": "كُونُوا فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ أَوْ عَابِرُ سَبِيلٍ",
+      "de": "Sei in der Welt wie ein Fremder oder ein Reisender auf der Durchreise.",
+      "en": "Be in this world as if you were a stranger or a traveler."
+    },
+    "narrator": {
+      "tr": "İbn Ömer",
+      "ar": "İbn Ömer",
+      "de": "İbn Ömer",
+      "en": "İbn Ömer"
+    },
+    "source": "Buhârî 6416",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 6416",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-84",
+    "arabic": "إِذَا أَمْسَيْتَ فَلاَ تَنْتَظِرِ الصَّبَاحَ، وَإِذَا أَصْبَحْتَ فَلاَ تَنْتَظِرِ الْمَسَاءَ",
+    "translations": {
+      "tr": "Akşama erdiğinde sabahı bekleme; sabaha çıktığında akşamı bekleme (vaktini hayırlı amellerle değerlendir).",
+      "ar": "إِذَا أَمْسَيْتَ فَلاَ تَنْتَظِرِ الصَّبَاحَ، وَإِذَا أَصْبَحْتَ فَلاَ تَنْتَظِرِ الْمَسَاءَ",
+      "de": "Wenn der Abend kommt, erwarte nicht den Morgen; wenn der Morgen anbricht, erwarte nicht den Abend.",
+      "en": "When evening comes, do not expect morning; and when morning comes, do not expect evening."
+    },
+    "narrator": {
+      "tr": "İbn Ömer",
+      "ar": "İbn Ömer",
+      "de": "İbn Ömer",
+      "en": "İbn Ömer"
+    },
+    "source": "Buhârî 6416",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 6416",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-85",
+    "arabic": "نِعْمَتَانِ مَغْبُونٌ فِيهِمَا كَثِيرٌ مِنَ النَّاسِ: الصِّحَّةُ وَالْفَرَاغُ",
+    "translations": {
+      "tr": "İki nimet vardır ki insanların çoğu onların kıymetini bilmekte aldanmıştır: Sağlık ve boş vakit.",
+      "ar": "نِعْمَتَانِ مَغْبُونٌ فِيهِمَا كَثِيرٌ مِنَ النَّاسِ: الصِّحَّةُ وَالْفَرَاغُ",
+      "de": "Zwei Gaben sind es, bei denen viele Menschen getäuscht werden: Gesundheit und freie Zeit.",
+      "en": "There are two blessings which many people lose: health and free time."
+    },
+    "narrator": {
+      "tr": "İbn Abbâs (r.a.)",
+      "ar": "عبد الله بن عباس رضي الله عنهما",
+      "de": "Ibn Abbas (r.a.)",
+      "en": "Ibn Abbas (r.a.)"
+    },
+    "source": "Buhârî 6412",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 6412",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-86",
+    "arabic": "مَنْ كَانَ آخِرُ كَلاَمِهِ لاَ إِلَهَ إِلاَّ اللَّهُ دَخَلَ الْجَنَّةَ",
+    "translations": {
+      "tr": "Kimin son sözü 'Lâ ilâhe illallâh' olursa o cennete girer.",
+      "ar": "مَنْ كَانَ آخِرُ كَلاَمِهِ لاَ إِلَهَ إِلاَّ اللَّهُ دَخَلَ الْجَنَّةَ",
+      "de": "Dessen letzte Worte 'La ilaha illa Allah' sind, der betritt das Paradies.",
+      "en": "He whose last words are 'La ilaha illa Allah' will enter Paradise."
+    },
+    "narrator": {
+      "tr": "Muâz bin Cebel",
+      "ar": "Muâz bin Cebel",
+      "de": "Muâz bin Cebel",
+      "en": "Muâz bin Cebel"
+    },
+    "source": "Ebû Dâvûd 3116",
+    "bookName": "Ebû Dâvûd",
+    "hadithNumber": "Ebû Dâvûd 3116",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-87",
+    "arabic": "إِنَّ اللَّهَ حَرَّمَ عَلَيْكُمْ عُقُوقَ الأُمَّهَاتِ، وَوَأْدَ الْبَنَاتِ، وَمَنْعًا وَهَاتِ",
+    "translations": {
+      "tr": "Şüphesiz Allah annelere itaatsizliği, kız çocuklarını hor görmeyi ve cimrilik edip haksızca istemeyi size haram kılmıştır.",
+      "ar": "إِنَّ اللَّهَ حَرَّمَ عَلَيْكُمْ عُقُوقَ الأُمَّهَاتِ، وَوَأْدَ الْبَنَاتِ، وَمَنْعًا وَهَاتِ",
+      "de": "Wahrlich, Allah hat euch den Ungehorsam gegenüber Müttern verboten.",
+      "en": "Indeed Allah has forbidden you disobedience to mothers and miserliness."
+    },
+    "narrator": {
+      "tr": "Mugîre bin Şu'be",
+      "ar": "Mugîre bin Şu'be",
+      "de": "Mugîre bin Şu'be",
+      "en": "Mugîre bin Şu'be"
+    },
+    "source": "Buhârî 5975, Müslim 593",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 5975",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-88",
+    "arabic": "اتَّقُوا دَعْوَةَ الْمَظْلُومِ فَإِنَّهَا لَيْسَ بَيْنَهَا وَبَيْنَ اللَّهِ حِجَابٌ",
+    "translations": {
+      "tr": "Mazlumun duasından sakının; çünkü onunla Allah arasında hiçbir perde yoktur.",
+      "ar": "اتَّقُوا دَعْوَةَ الْمَظْلُومِ فَإِنَّهَا لَيْسَ بَيْنَهَا وَبَيْنَ اللَّهِ حِجَابٌ",
+      "de": "Hütet euch vor dem Bittgebet des Unterdrückten, denn zwischen ihm und Allah gibt es keinen Vorhang.",
+      "en": "Beware of the supplication of the oppressed, for there is no barrier between it and Allah."
+    },
+    "narrator": {
+      "tr": "İbn Abbâs (r.a.)",
+      "ar": "عبد الله بن عباس رضي الله عنهما",
+      "de": "Ibn Abbas (r.a.)",
+      "en": "Ibn Abbas (r.a.)"
+    },
+    "source": "Buhârî 1496",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 1496",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-89",
+    "arabic": "لاَ ضَرَرَ وَلاَ ضِرَارَ",
+    "translations": {
+      "tr": "İslam'da ne doğrudan zarar vermek vardır ne de zarara zararla karşılık vermek.",
+      "ar": "لاَ ضَرَرَ وَلاَ ضِرَارَ",
+      "de": "Weder Schaden zufügen noch Schaden erwidern darf man.",
+      "en": "There should be neither harming nor reciprocating harm."
+    },
+    "narrator": {
+      "tr": "İbn Abbâs (r.a.)",
+      "ar": "عبد الله بن عباس رضي الله عنهما",
+      "de": "Ibn Abbas (r.a.)",
+      "en": "Ibn Abbas (r.a.)"
+    },
+    "source": "İbn Mâce 2341",
+    "bookName": "İbn Mâce",
+    "hadithNumber": "İbn Mâce 2341",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-90",
+    "arabic": "التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لاَ ذَنْبَ لَهُ",
+    "translations": {
+      "tr": "Günahtan samimiyetle tövbe eden, hiç günah işlememiş gibidir.",
+      "ar": "التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لاَ ذَنْبَ لَهُ",
+      "de": "Wer von einer Sünde aufrichtig bereut, ist wie jemand, der keine Sünde hat.",
+      "en": "The one who repents from sin is like one who had no sin."
+    },
+    "narrator": {
+      "tr": "İbn Mes'ûd",
+      "ar": "İbn Mes'ûd",
+      "de": "İbn Mes'ûd",
+      "en": "İbn Mes'ûd"
+    },
+    "source": "İbn Mâce 4250",
+    "bookName": "İbn Mâce",
+    "hadithNumber": "İbn Mâce 4250",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-91",
+    "arabic": "لَلَّهُ أَشَدُّ فَرَحًا بِتَوْبَةِ عَبْدِهِ حِينَ يَتُوبُ إِلَيْهِ مِنْ أَحَدِكُمْ كَانَ عَلَى رَاحِلَتِهِ بِأَرْضِ فَلاَةٍ",
+    "translations": {
+      "tr": "Kulu tövbe ettiği zaman Allah'ın sevinci, ıssız çölde devesini kaybedip sonra bulan birinizin sevincinden daha fazladır.",
+      "ar": "لَلَّهُ أَشَدُّ فَرَحًا بِتَوْبَةِ عَبْدِهِ حِينَ يَتُوبُ إِلَيْهِ مِنْ أَحَدِكُمْ كَانَ عَلَى رَاحِلَتِهِ بِأَرْضِ فَلاَةٍ",
+      "de": "Allah freut sich mehr über die Reue Seines Dieners als einer von euch, der sein Reittier in der Wüste verlor und wiederfand.",
+      "en": "Allah is more pleased with the repentance of His servant than one of you who lost his camel in a desert and then found it."
+    },
+    "narrator": {
+      "tr": "Enes bin Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "Buhârî 6309",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 6309",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-92",
+    "arabic": "إِنَّ اللَّهَ يَبْسُطُ يَدَهُ بِاللَّيْلِ لِيَتُوبَ مُسِيءُ النَّهَارِ، وَيَبْسُطُ يَدَهُ بِالنَّهَارِ لِيَتُوبَ مُسِيءُ اللَّيْلِ",
+    "translations": {
+      "tr": "Gündüz günah işleyenin tövbe etmesi için Allah gece rahmet elini açar; gece günah işleyenin tövbe etmesi için de gündüz rahmet elini açar.",
+      "ar": "إِنَّ اللَّهَ يَبْسُطُ يَدَهُ بِاللَّيْلِ لِيَتُوبَ مُسِيءُ النَّهَارِ، وَيَبْسُطُ يَدَهُ بِالنَّهَارِ لِيَتُوبَ مُسِيءُ اللَّيْلِ",
+      "de": "Allah breitet Seine Hand des Nachts aus, damit der Sünder des Tages bereue, und Er breitet Seine Hand bei Tag aus, damit der Sünder der Nacht bereue.",
+      "en": "Allah stretches out His Hand at night to accept the repentance of the one who sins during the day, and stretches out His Hand during the day to accept the repentance of the one who sins at night."
+    },
+    "narrator": {
+      "tr": "Ebû Mûsâ el-Eş'arî",
+      "ar": "Ebû Mûsâ el-Eş'arî",
+      "de": "Ebû Mûsâ el-Eş'arî",
+      "en": "Ebû Mûsâ el-Eş'arî"
+    },
+    "source": "Müslim 2759",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2759",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-93",
+    "arabic": "الصَّبْرُ ضِيَاءٌ",
+    "translations": {
+      "tr": "Sabır aydınlıktır.",
+      "ar": "الصَّبْرُ ضِيَاءٌ",
+      "de": "Geduld ist ein leuchtendes Licht.",
+      "en": "Patience is illumination."
+    },
+    "narrator": {
+      "tr": "Ebû Mâlik",
+      "ar": "Ebû Mâlik",
+      "de": "Ebû Mâlik",
+      "en": "Ebû Mâlik"
+    },
+    "source": "Müslim 223",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 223",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-94",
+    "arabic": "عَجَبًا لأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ: إِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ، وَإِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ خَيْرًا لَهُ",
+    "translations": {
+      "tr": "Müminin durumu ne hoştur! Her hâli kendisi için bir hayırdır: Kendisine bir sevinç isabet etse şükreder, bu onun için hayır olur; bir sıkıntı isabet etse sabreder, bu da onun için hayır olur.",
+      "ar": "عَجَبًا لأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ: إِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ، وَإِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ خَيْرًا لَهُ",
+      "de": "Erstaunlich ist die Angelegenheit des Gläubigen; jede seiner Lagen ist gut für ihn: Wenn ihm Freude widerfährt, dankt er; und wenn ihm Leid widerfährt, ist er geduldig.",
+      "en": "How wonderful is the case of a believer; there is good for him in everything: if prosperity attends him, he expresses gratitude to Allah, and that is good for him; and if adversity befalls him, he endures it patiently, and that is good for him."
+    },
+    "narrator": {
+      "tr": "Süheyb-i Rûmî",
+      "ar": "Süheyb-i Rûmî",
+      "de": "Süheyb-i Rûmî",
+      "en": "Süheyb-i Rûmî"
+    },
+    "source": "Müslim 2999",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2999",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-95",
+    "arabic": "مَا يُصِيبُ الْمُسْلِمَ مِنْ نَصَبٍ وَلاَ وَصَبٍ وَلاَ هَمٍّ وَلاَ حُزْنٍ وَلاَ أَذًى وَلاَ غَمٍّ، حَتَّى الشَّوْكَةِ يُشَاكُهَا، إِلاَّ كَفَّرَ اللَّهُ بِهَا مِنْ خَطَايَاهُ",
+    "translations": {
+      "tr": "Müslümanın başına gelen hiçbir yorgunluk, hastalık, keder, hüzün, eziyet ve sıkıntı yoktur ki –ayağına batan bir diken dahi olsa– Allah onunla günahlarından bir kısmını bağışlamasın.",
+      "ar": "مَا يُصِيبُ الْمُسْلِمَ مِنْ نَصَبٍ وَلاَ وَصَبٍ وَلاَ هَمٍّ وَلاَ حُزْنٍ وَلاَ أَذًى وَلاَ غَمٍّ، حَتَّى الشَّوْكَةِ يُشَاكُهَا، إِلاَّ كَفَّرَ اللَّهُ بِهَا مِنْ خَطَايَاهُ",
+      "de": "Keine Müdigkeit, Krankheit, Sorge, Trauer, Leid oder Kummer trifft den Muslim – selbst ein Dorn, der ihn sticht –, ohne dass Allah damit Sünden tilgt.",
+      "en": "No fatigue, nor disease, nor sorrow, nor sadness, nor hurt, nor distress befalls a Muslim, even if it were the prick he receives from a thorn, but that Allah expiates some of his sins for that."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî 5641",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 5641",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-96",
+    "arabic": "أَشَدُّ النَّاسِ بَلاَءً الأَنْبِيَاءُ ثُمَّ الأَمْثَلُ فَالأَمْثَلُ",
+    "translations": {
+      "tr": "İnsanların en çok imtihana ve belaya uğrayanı peygamberlerdir; sonra derece derece faziletli olanlardır.",
+      "ar": "أَشَدُّ النَّاسِ بَلاَءً الأَنْبِيَاءُ ثُمَّ الأَمْثَلُ فَالأَمْثَلُ",
+      "de": "Die am schwersten geprüften Menschen sind die Propheten, dann die Nächsten und Nächsten.",
+      "en": "The most severely tested people are the prophets, then the next best and the next best."
+    },
+    "narrator": {
+      "tr": "Sa'd bin Ebî Vakkâs",
+      "ar": "Sa'd bin Ebî Vakkâs",
+      "de": "Sa'd bin Ebî Vakkâs",
+      "en": "Sa'd bin Ebî Vakkâs"
+    },
+    "source": "Tirmizî 2398",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2398",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-97",
+    "arabic": "مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُصِبْ مِنْهُ",
+    "translations": {
+      "tr": "Allah kime hayır dilerse ona bir musibet ve imtihan verir (günahlarını temizleyip derecesini yükseltir).",
+      "ar": "مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُصِبْ مِنْهُ",
+      "de": "Wem Allah Gutes will, den prüft Er mit Heimsuchungen.",
+      "en": "Whomever Allah intends good for, He afflicts with trials."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî 5645",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 5645",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-98",
+    "arabic": "مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ",
+    "translations": {
+      "tr": "Allah kimin hakkında hayır dilerse, onu dinde derin kavrayış (fıkıh) sahibi kılar.",
+      "ar": "مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ",
+      "de": "Wem Allah Gutes will, dem verleiht Er Verständnis in der Religion.",
+      "en": "Whomever Allah wants good for, He gives him understanding of the religion."
+    },
+    "narrator": {
+      "tr": "Muâviye bin Ebî Süfyân",
+      "ar": "Muâviye bin Ebî Süfyân",
+      "de": "Muâviye bin Ebî Süfyân",
+      "en": "Muâviye bin Ebî Süfyân"
+    },
+    "source": "Buhârî 71",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 71",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-99",
+    "arabic": "مَنْ صَلَّى الْفَجْرَ فِي جَمَاعَةٍ ثُمَّ قَعَدَ يَذْكُرُ اللَّهَ حَتَّى تَطْلُعَ الشَّمْسُ ثُمَّ صَلَّى رَكْعَتَيْنِ كَانَتْ لَهُ كَأَجْرِ حَجَّةٍ وَعُمْرَةٍ تَامَّةٍ تَامَّةٍ تَامَّةٍ",
+    "translations": {
+      "tr": "Kim sabah namazını cemaatle kıldıktan sonra güneş doğuncaya kadar oturup Allah'ı zikreder, sonra iki rekat (İşrak) namazı kılarsa, tam bir hac ve umre sevabı kazanır.",
+      "ar": "مَنْ صَلَّى الْفَجْرَ فِي جَمَاعَةٍ ثُمَّ قَعَدَ يَذْكُرُ اللَّهَ حَتَّى تَطْلُعَ الشَّمْسُ ثُمَّ صَلَّى رَكْعَتَيْنِ كَانَتْ لَهُ كَأَجْرِ حَجَّةٍ وَعُمْرَةٍ تَامَّةٍ تَامَّةٍ تَامَّةٍ",
+      "de": "Wer das Morgengebet in der Gemeinschaft verrichtet und dann bis zum Sonnenaufgang gedenkt und zwei Rakaat betet, erhält den Lohn einer vollkommenen Pilgerfahrt und Umrah.",
+      "en": "Whoever prays Fajr in congregation, then sits remembering Allah until the sun has risen, then prays two rak'ahs, will have a reward like that of Hajj and 'Umrah, complete, complete, complete."
+    },
+    "narrator": {
+      "tr": "Enes bin Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "Tirmizî 586",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 586",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-100",
+    "arabic": "أَحَبُّ الْبِلاَدِ إِلَى اللَّهِ مَسَاجِدُهَا، وَأَبْغَضُ الْبِلاَدِ إِلَى اللَّهِ أَسْوَاقُهَا",
+    "translations": {
+      "tr": "Şehirlerin Allah'a en sevimli olan yerleri mescitleridir; en sevimsiz olan yerleri ise çarşı ve pazarlarıdır.",
+      "ar": "أَحَبُّ الْبِلاَدِ إِلَى اللَّهِ مَسَاجِدُهَا، وَأَبْغَضُ الْبِلاَدِ إِلَى اللَّهِ أَسْوَاقُهَا",
+      "de": "Die von Allah meistgeliebten Orte auf Erden sind die Moscheen, und die verhasstesten sind die Märkte.",
+      "en": "The most beloved places to Allah on earth are its mosques, and the most hated places to Allah are its markets."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 671",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 671",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-101",
+    "arabic": "لاَ تَجْعَلُوا بُيُوتَكُمْ مَقَابِرَ، إِنَّ الشَّيْطَانَ يَنْفِرُ مِنَ الْبَيْتِ الَّذِي تُقْرَأُ فِيهِ سُورَةُ الْبَقَرَةِ",
+    "translations": {
+      "tr": "Evlerinizi kabristana çevirmeyin. Şüphesiz şeytan, içinde Bakara Suresi okunan evden kaçar.",
+      "ar": "لاَ تَجْعَلُوا بُيُوتَكُمْ مَقَابِرَ، إِنَّ الشَّيْطَانَ يَنْفِرُ مِنَ الْبَيْتِ الَّذِي تُقْرَأُ فِيهِ سُورَةُ الْبَقَرَةِ",
+      "de": "Macht eure Häuser nicht zu Gräbern. Gewiss, der Satan flieht aus dem Haus, in dem die Sure Al-Baqarah rezitiert wird.",
+      "en": "Do not make your houses into graveyards. Indeed, Satan flees from the house in which Surah Al-Baqarah is recited."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 780",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 780",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-102",
+    "arabic": "مَنْ قَرَأَ بِالآيَتَيْنِ مِنْ آخِرِ سُورَةِ الْبَقَرَةِ فِي لَيْلَةٍ كَفَتَاهُ",
+    "translations": {
+      "tr": "Kim geceleyin Bakara Suresi'nin son iki ayetini (Âmenerresûlü) okursa, bu ona kâfi gelir.",
+      "ar": "مَنْ قَرَأَ بِالآيَتَيْنِ مِنْ آخِرِ سُورَةِ الْبَقَرَةِ فِي لَيْلَةٍ كَفَتَاهُ",
+      "de": "Wer nachts die beiden letzten Verse der Sure Al-Baqarah liest, dem genügen sie.",
+      "en": "Whoever recites the last two verses of Surah Al-Baqarah at night, they will be sufficient for him."
+    },
+    "narrator": {
+      "tr": "Ebû Mes'ûd el-Bedrî",
+      "ar": "Ebû Mes'ûd el-Bedrî",
+      "de": "Ebû Mes'ûd el-Bedrî",
+      "en": "Ebû Mes'ûd el-Bedrî"
+    },
+    "source": "Buhârî 5009",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 5009",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-103",
+    "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ تَعْدِلُ ثُلُثَ الْقُرْآنِ",
+    "translations": {
+      "tr": "İhlas Suresi (Kul hüvellâhu ehad) Kur'an'ın üçte birine denktir.",
+      "ar": "قُلْ هُوَ اللَّهُ أَحَدٌ تَعْدِلُ ثُلُثَ الْقُرْآنِ",
+      "de": "Sure Al-Ikhlas entspricht einem Drittel des Korans.",
+      "en": "Surah Al-Ikhlas is equivalent to one third of the Qur'an."
+    },
+    "narrator": {
+      "tr": "Ebû Saîd el-Hudrî",
+      "ar": "Ebû Saîd el-Hudrî",
+      "de": "Ebû Saîd el-Hudrî",
+      "en": "Ebû Saîd el-Hudrî"
+    },
+    "source": "Buhârî 5013",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 5013",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-104",
+    "arabic": "مَنْ تَابَ قَبْلَ أَنْ تَطْلُعَ الشَّمْسُ مِنْ مَغْرِبِهَا تَابَ اللَّهُ عَلَيْهِ",
+    "translations": {
+      "tr": "Kim güneş batıdan doğmadan önce tövbe ederse, Allah onun tövbesini kabul eder.",
+      "ar": "مَنْ تَابَ قَبْلَ أَنْ تَطْلُعَ الشَّمْسُ مِنْ مَغْرِبِهَا تَابَ اللَّهُ عَلَيْهِ",
+      "de": "Wer bereut, bevor die Sonne im Westen aufgeht, dessen Reue nimmt Allah an.",
+      "en": "Whoever repents before the sun rises from the west, Allah will accept his repentance."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 2703",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2703",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-105",
+    "arabic": "إِنَّ اللَّهَ يَقْبَلُ تَوْبَةَ الْعَبْدِ مَا لَمْ يُغَرْغِرْ",
+    "translations": {
+      "tr": "Şüphesiz Allah, kulunun tövbesini can boğaza gelmedikçe kabul eder.",
+      "ar": "إِنَّ اللَّهَ يَقْبَلُ تَوْبَةَ الْعَبْدِ مَا لَمْ يُغَرْغِرْ",
+      "de": "Gewiss, Allah nimmt die Reue Seines Dieners an, solange das Todesröcheln nicht einsetzt.",
+      "en": "Indeed, Allah accepts the repentance of a servant as long as the death rattle has not begun."
+    },
+    "narrator": {
+      "tr": "İbn Ömer",
+      "ar": "İbn Ömer",
+      "de": "İbn Ömer",
+      "en": "İbn Ömer"
+    },
+    "source": "Tirmizî 3537",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 3537",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-106",
+    "arabic": "كُلُّ ابْنِ آدَمَ خَطَّاءٌ، وَخَيْرُ الْخَطَّائِينَ التَّوَّابُونَ",
+    "translations": {
+      "tr": "Bütün Âdemoğulları hata edicidir; hata edenlerin en hayırlısı ise çokça tövbe edenlerdir.",
+      "ar": "كُلُّ ابْنِ آدَمَ خَطَّاءٌ، وَخَيْرُ الْخَطَّائِينَ التَّوَّابُونَ",
+      "de": "Jeder Sohn Adams begeht Fehler, und die besten der Fehlenden sind die oft Reumütigen.",
+      "en": "Every son of Adam commits mistakes, and the best of those who make mistakes are those who constantly repent."
+    },
+    "narrator": {
+      "tr": "Enes bin Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "Tirmizî 2499",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2499",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-107",
+    "arabic": "ثَلاَثُ دَعَوَاتٍ مُسْتَجَابَاتٌ لاَ شَكَّ فِيهِنَّ: دَعْوَةُ الْوَالِدِ، وَدَعْوَةُ الْمُسَافِرِ، وَدَعْوَةُ الْمَظْلُومِ",
+    "translations": {
+      "tr": "Üç dua vardır ki kabul edileceğinde hiçbir şüphe yoktur: Anne-babanın duası, yolcunun duası ve mazlumun duası.",
+      "ar": "ثَلاَثُ دَعَوَاتٍ مُسْتَجَابَاتٌ لاَ شَكَّ فِيهِنَّ: دَعْوَةُ الْوَالِدِ، وَدَعْوَةُ الْمُسَافِرِ، وَدَعْوَةُ الْمَظْلُومِ",
+      "de": "Drei Bittgebete werden zweifellos erhört: Das Gebet der Eltern, das Gebet des Reisenden und das Gebet des Unterdrückten.",
+      "en": "Three supplications are answered without doubt: The supplication of parents, the supplication of the traveler, and the supplication of the oppressed."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Ebû Dâvûd 1536",
+    "bookName": "Ebû Dâvûd",
+    "hadithNumber": "Ebû Dâvûd 1536",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-108",
+    "arabic": "مَنْ جَلَسَ فِي مَجْلِسٍ فَكَثُرَ فِيهِ لَغَطُهُ فَقَالَ قَبْلَ أَنْ يَقُومَ: سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ أَنْتَ أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ، إِلاَّ غُفِرَ لَهُ مَا كَانَ فِي مَجْلِسِهِ ذَلِكَ",
+    "translations": {
+      "tr": "Kim bir mecliste oturup faydasız konuşmaları çok olur da kalkmadan önce 'Sübhânekellâhümme ve bihamdik...' derse, o mecliste olan günahları bağışlanır.",
+      "ar": "مَنْ جَلَسَ فِي مَجْلِسٍ فَكَثُرَ فِيهِ لَغَطُهُ فَقَالَ قَبْلَ أَنْ يَقُومَ: سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ أَنْتَ أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ، إِلاَّ غُفِرَ لَهُ مَا كَانَ فِي مَجْلِسِهِ ذَلِكَ",
+      "de": "Wer in einer Zusammenkunft sitzt und vor dem Aufstehen spricht: 'Preis sei Dir, o Allah, und Lob...', dem wird vergeben, was darin geschah.",
+      "en": "Whoever sits in a gathering and says before standing up: 'Glory be to You, O Allah, and praise...', he will be forgiven for what occurred in that gathering."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Tirmizî 3433",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 3433",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-109",
+    "arabic": "أَفْشُوا السَّلاَمَ بَيْنَكُمْ",
+    "translations": {
+      "tr": "Aranızda selamı yayın.",
+      "ar": "أَفْشُوا السَّلاَمَ بَيْنَكُمْ",
+      "de": "Verbreitet den Frieden (den Friedensgruß) untereinander.",
+      "en": "Spread peace (salam) among yourselves."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 54",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 54",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-110",
+    "arabic": "وَالَّذِي نَفْسِي بِيَدِهِ لاَ تَدْخُلُوا الْجَنَّةَ حَتَّى تُؤْمِنُوا، وَلاَ تُؤْمِنُوا حَتَّى تَحَابُّوا، أَوَلاَ أَدُلُّكُمْ عَلَى شَيْءٍ إِذَا فَعَلْتُمُوهُ تَحَابَبْتُمْ؟ أَفْشُوا السَّلاَمَ بَيْنَكُمْ",
+    "translations": {
+      "tr": "Canım kudret elinde olan Allah'a yemin ederim ki iman etmedikçe cennete giremezsiniz; birbirinizi sevmedikçe de gerçek anlamda iman etmiş olamazsınız. Yaptığınız takdirde birbirinizi seveceğiniz bir şeyi size haber vereyim mi? Aranızda selamı yayın!",
+      "ar": "وَالَّذِي نَفْسِي بِيَدِهِ لاَ تَدْخُلُوا الْجَنَّةَ حَتَّى تُؤْمِنُوا، وَلاَ تُؤْمِنُوا حَتَّى تَحَابُّوا، أَوَلاَ أَدُلُّكُمْ عَلَى شَيْءٍ إِذَا فَعَلْتُمُوهُ تَحَابَبْتُمْ؟ أَفْشُوا السَّلاَمَ بَيْنَكُمْ",
+      "de": "Bei Dem, in Dessen Hand meine Seele liegt! Ihr werdet nicht ins Paradies eintreten, bis ihr glaubt, und ihr werdet nicht glauben, bis ihr einander liebt. Soll ich euch etwas weisen? Verbreitet den Friedensgruß!",
+      "en": "By Him in whose hand is my soul! You will not enter Paradise until you believe, and you will not believe until you love one another. Shall I guide you to something? Spread peace among yourselves!"
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 54",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 54",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-111",
+    "arabic": "الْمُؤْمِنُ غِرٌّ كَرِيمٌ، وَالْفَاجِرُ خِبٌّ لَئِيمٌ",
+    "translations": {
+      "tr": "Mümin saf, temiz ve kerimdir; fâsık ise aldatıcı ve cimridir.",
+      "ar": "الْمُؤْمِنُ غِرٌّ كَرِيمٌ، وَالْفَاجِرُ خِبٌّ لَئِيمٌ",
+      "de": "Der Gläubige ist edelmütig und arglos; der Frevler ist hinterlistig und gemein.",
+      "en": "The believer is noble and generous, while the wicked is deceitful and ignoble."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Ebû Dâvûd 4790",
+    "bookName": "Ebû Dâvûd",
+    "hadithNumber": "Ebû Dâvûd 4790",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-112",
+    "arabic": "أَكْثِرُوا ذِكْرَ هَاذِمِ اللَّذَّاتِ: الْمَوْتِ",
+    "translations": {
+      "tr": "Lezzetleri bıçak gibi kesip yok eden ölümü çokça anın.",
+      "ar": "أَكْثِرُوا ذِكْرَ هَاذِمِ اللَّذَّاتِ: الْمَوْتِ",
+      "de": "Gedenkt häufig des Zerstörers aller Freuden: Des Todes.",
+      "en": "Remember often the destroyer of pleasures: death."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Tirmizî 2307",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2307",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-113",
+    "arabic": "إِنَّ مِنْ أَوْثَقِ عُرَى الإِيمَانِ: أَنْ تُحِبَّ فِي اللَّهِ، وَتُبْغِضَ فِي اللَّهِ",
+    "translations": {
+      "tr": "Şüphesiz imanın en sağlam kulpu; Allah için sevmek ve Allah için buğzetmektir.",
+      "ar": "إِنَّ مِنْ أَوْثَقِ عُرَى الإِيمَانِ: أَنْ تُحِبَّ فِي اللَّهِ، وَتُبْغِضَ فِي اللَّهِ",
+      "de": "Zu den festesten Banden des Glaubens gehört: Lieben um Allahs willen und Zürnen um Allahs willen.",
+      "en": "The firmest handhold of faith is to love for the sake of Allah and to hate for the sake of Allah."
+    },
+    "narrator": {
+      "tr": "el-Berâ bin Âzib",
+      "ar": "el-Berâ bin Âzib",
+      "de": "el-Berâ bin Âzib",
+      "en": "el-Berâ bin Âzib"
+    },
+    "source": "Ahmed bin Hanbel",
+    "bookName": "Müsned",
+    "hadithNumber": "Ahmed bin Hanbel",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-114",
+    "arabic": "مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الإِيمَانِ",
+    "translations": {
+      "tr": "Sizden kim bir kötülük görürse onu eliyle düzeltsin; buna gücü yetmezse diliyle düzeltsin; buna da gücü yetmezse kalbiyle buğzetsin ki bu imanın en zayıf derecesidir.",
+      "ar": "مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الإِيمَانِ",
+      "de": "Wer von euch ein Übel sieht, soll es mit der Hand ändern; kann er das nicht, so mit der Zunge; kann er auch das nicht, so mit dem Herzen.",
+      "en": "Whoever among you sees an evil, let him change it with his hand; if he cannot, then with his tongue; if he cannot, then with his heart - and that is the weakest of faith."
+    },
+    "narrator": {
+      "tr": "Ebû Saîd el-Hudrî",
+      "ar": "Ebû Saîd el-Hudrî",
+      "de": "Ebû Saîd el-Hudrî",
+      "en": "Ebû Saîd el-Hudrî"
+    },
+    "source": "Müslim 49",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 49",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-115",
+    "arabic": "كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ",
+    "translations": {
+      "tr": "Hepiniz birer çobansınız ve hepiniz elinizin altındakilerden (sorumluluğunuz altındakilerden) mesulsünüz.",
+      "ar": "كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ",
+      "de": "Ein jeder von euch ist ein Hirte, und ein jeder von euch ist verantwortlich für seine Herde.",
+      "en": "Every one of you is a shepherd and is responsible for his flock."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Ömer (r.a.)",
+      "ar": "عبد الله بن عمر رضي الله عنهما",
+      "de": "Abdullah ibn Umar (r.a.)",
+      "en": "Abdullah ibn Umar (r.a.)"
+    },
+    "source": "Buhârî 893",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 893",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-116",
+    "arabic": "طُوبَى لِمَنْ وَجَدَ فِي صَحِيفَتِهِ اسْتِغْفَارًا كَثِيرًا",
+    "translations": {
+      "tr": "Amel defterinde çokça istiğfar bulan kimseye ne mutlu!",
+      "ar": "طُوبَى لِمَنْ وَجَدَ فِي صَحِيفَتِهِ اسْتِغْفَارًا كَثِيرًا",
+      "de": "Wohl dem, der in seinem Tatenbuch viel Bitte um Vergebung findet!",
+      "en": "Glad tidings to the one who finds much forgiveness in his record of deeds."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Büsr",
+      "ar": "Abdullah bin Büsr",
+      "de": "Abdullah bin Büsr",
+      "en": "Abdullah bin Büsr"
+    },
+    "source": "İbn Mâce 3818",
+    "bookName": "İbn Mâce",
+    "hadithNumber": "İbn Mâce 3818",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-117",
+    "arabic": "كُلُّ أُمَّتِي يَدْخُلُونَ الجَنَّةَ إِلَّا مَنْ أَبَى، قَالُوا: يَا رَسُولَ اللَّهِ وَمَنْ يَأْبَى؟ قَالَ: مَنْ أَطَاعَنِي دَخَلَ الجَنَّةَ، وَمَنْ عَصَانِي فَقَدْ أَبَى",
+    "translations": {
+      "tr": "Bana itaat etmeyenler dışında bütün ümmetim cennete girecektir. Sahâbîler: \"Ey Allah'ın Resûlü, kim itaat etmez ki?\" dediler. Şöyle buyurdu: \"Bana itaat eden cennete girer, bana isyan eden ise cennete girmeyi reddetmiş demektir.\"",
+      "ar": "كل أمتي يدخلون الجنة إلا من أبى، قيل: ومن يأبى يا رسول الله؟ قال: من أطاعني دخل الجنة، ومن عصاني فقد أبى.",
+      "de": "Meine gesamte Ummah wird ins Paradies eintreten, außer wer sich weigert. Sie fragten: \"Wer weigert sich, o Gesandter Allahs?\" Er sprach: \"Wer mir gehorcht, betritt das Paradies; und wer mir ungehorsam ist, der hat sich geweigert.\"",
+      "en": "All of my followers will enter Paradise except those who refuse. They said: \"O Messenger of Allah, who would refuse?\" He said: \"Whoever obeys me enters Paradise, and whoever disobeys me has refused.\""
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Huraira (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî, İ'tisâm, 2",
+    "bookName": "Sahih-i Buhârî",
+    "hadithNumber": "Buhârî 7280",
+    "notes": "Sahih Hadis"
+  },
+  {
+    "id": "hadith-118",
+    "arabic": "مَنْ تَرَكَ شَيْئًا لِلَّهِ عَوَّضَهُ اللَّهُ خَيْرًا مِنْهُ",
+    "translations": {
+      "tr": "Kim Allah rızası için bir şeyi terk ederse, Allah ona ondan daha hayırlısını verir.",
+      "ar": "مَنْ تَرَكَ شَيْئًا لِلَّهِ عَوَّضَهُ اللَّهُ خَيْرًا مِنْهُ",
+      "de": "Wer etwas um Allahs willen aufgibt, dem ersetzt Allah es durch Besseres.",
+      "en": "Whoever leaves something for the sake of Allah, Allah will replace it with something better."
+    },
+    "narrator": {
+      "tr": "Ebû Katâde",
+      "ar": "Ebû Katâde",
+      "de": "Ebû Katâde",
+      "en": "Ebû Katâde"
+    },
+    "source": "Ahmed bin Hanbel",
+    "bookName": "Müsned",
+    "hadithNumber": "Ahmed bin Hanbel",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-119",
+    "arabic": "إِنَّ اللَّهَ طَيِّبٌ لاَ يَقْبَلُ إِلاَّ طَيِّبًا",
+    "translations": {
+      "tr": "Şüphesiz Allah temiz ve tayyiptir; ancak temiz olanı kabul eder.",
+      "ar": "إِنَّ اللَّهَ طَيِّبٌ لاَ يَقْبَلُ إِلاَّ طَيِّبًا",
+      "de": "Wahrlich, Allah ist rein und Er nimmt nur Reines an.",
+      "en": "Indeed, Allah is pure and accepts only that which is pure."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 1015",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 1015",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-120",
+    "arabic": "دَعْ مَا يَرِيبُكَ إِلَى مَا لاَ يَرِيبُكَ",
+    "translations": {
+      "tr": "Sana şüphe veren şeyi bırak, şüphe vermeyene yönel.",
+      "ar": "دَعْ مَا يَرِيبُكَ إِلَى مَا لاَ يَرِيبُكَ",
+      "de": "Lass das, was dir Zweifel einflößt, für das, was dir keine Zweifel einflößt.",
+      "en": "Leave that which makes you doubt for that which does not make you doubt."
+    },
+    "narrator": {
+      "tr": "Hasan bin Ali",
+      "ar": "Hasan bin Ali",
+      "de": "Hasan bin Ali",
+      "en": "Hasan bin Ali"
+    },
+    "source": "Tirmizî 2518",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2518",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-121",
+    "arabic": "مِنْ حُسْنِ إِسْلاَمِ الْمَرْءِ تَرْكُهُ مَا لاَ يَعْنِيهِ",
+    "translations": {
+      "tr": "Kişinin kendisini ilgilendirmeyen mâlâyânî şeyleri terk etmesi, Müslümanlığının güzelliğindendir.",
+      "ar": "مِنْ حُسْنِ إِسْلاَمِ الْمَرْءِ تَرْكُهُ مَا لاَ يَعْنِيهِ",
+      "de": "Es gehört zum guten Islam des Menschen, das zu lassen, was ihn nichts angeht.",
+      "en": "Part of the perfection of a person's Islam is leaving that which does not concern him."
+    },
+    "narrator": {
+      "tr": "Ali bin Hüseyin",
+      "ar": "Ali bin Hüseyin",
+      "de": "Ali bin Hüseyin",
+      "en": "Ali bin Hüseyin"
+    },
+    "source": "Tirmizî 2317",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2317",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-122",
+    "arabic": "لاَ يَرْحَمُ اللَّهُ مَنْ لاَ يَرْحَمُ النَّاسَ",
+    "translations": {
+      "tr": "İnsanlara merhamet etmeyene Allah da merhamet etmez.",
+      "ar": "لاَ يَرْحَمُ اللَّهُ مَنْ لاَ يَرْحَمُ النَّاسَ",
+      "de": "Allah erbarmt Sich dessen nicht, der den Menschen nicht barmherzig ist.",
+      "en": "Allah will not show mercy to him who does not show mercy to people."
+    },
+    "narrator": {
+      "tr": "Cerîr bin Abdullah",
+      "ar": "Cerîr bin Abdullah",
+      "de": "Cerîr bin Abdullah",
+      "en": "Cerîr bin Abdullah"
+    },
+    "source": "Buhârî 7376",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 7376",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-123",
+    "arabic": "أَطْعِمُوا الطَّعَامَ، وَصِلُوا الأَرْحَامَ، وَصَلُّوا بِاللَّيْلِ وَالنَّاسُ نِيَامٌ، تَدْخُلُوا الْجَنَّةَ بِسَلاَمٍ",
+    "translations": {
+      "tr": "Yemek yedirin, akrabalık bağlarını gözetin, insanlar uykudayken gece namaz kılın ki selametle cennete giresiniz.",
+      "ar": "أَطْعِمُوا الطَّعَامَ، وَصِلُوا الأَرْحَامَ، وَصَلُّوا بِاللَّيْلِ وَالنَّاسُ نِيَامٌ، تَدْخُلُوا الْجَنَّةَ بِسَلاَمٍ",
+      "de": "Speist die Bedürftigen, pflegt die Verwandtschaft, betet des Nachts während die Menschen schlafen, so betretet ihr das Paradies in Frieden.",
+      "en": "Feed the hungry, maintain kinship ties, pray at night while people sleep, and you will enter Paradise in peace."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Selâm",
+      "ar": "Abdullah bin Selâm",
+      "de": "Abdullah bin Selâm",
+      "en": "Abdullah bin Selâm"
+    },
+    "source": "Tirmizî 2485",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2485",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-124",
+    "arabic": "إِيَّاكُمْ وَالظَّنَّ، فَإِنَّ الظَّنَّ أَكْذَبُ الْحَدِيثِ",
+    "translations": {
+      "tr": "Zandan sakının; zira zan, sözlerin en yalan olanıdır.",
+      "ar": "إِيَّاكُمْ وَالظَّنَّ، فَإِنَّ الظَّنَّ أَكْذَبُ الْحَدِيثِ",
+      "de": "Hütet euch vor böser Vermutung, denn üble Vermutung ist die trügerischste Rede.",
+      "en": "Beware of suspicion, for suspicion is the false speech."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî 5143",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 5143",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-125",
+    "arabic": "مَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِي الدُّنْيَا وَالآخِرَةِ",
+    "translations": {
+      "tr": "Kim bir Müslümanın ayıbını örterse, Allah da dünya ve ahirette onun ayıbını örter.",
+      "ar": "مَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِي الدُّنْيَا وَالآخِرَةِ",
+      "de": "Wer die Blöße eines Muslims bedeckt, dessen Fehler deckt Allah im Diesseits und Jenseits zu.",
+      "en": "Whoever conceals the fault of a Muslim, Allah will conceal his faults in this world and the Hereafter."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 2699",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2699",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-126",
+    "arabic": "الْمُؤْمِنُ يَأْلَفُ وَيُؤْلَفُ",
+    "translations": {
+      "tr": "Mümin cana yakındır ve kendisiyle kolayca kaynaşılır.",
+      "ar": "الْمُؤْمِنُ يَأْلَفُ وَيُؤْلَفُ",
+      "de": "Der Gläubige schließt Freundschaft und gewinnt Zuneigung.",
+      "en": "The believer is gentle and easy to bond with."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Ahmed bin Hanbel",
+    "bookName": "Müsned",
+    "hadithNumber": "Ahmed bin Hanbel",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-127",
+    "arabic": "الصَّلَوَاتُ الْخَمْسُ، وَالْجُمُعَةُ إِلَى الْجُمُعَةِ، وَرَمَضَانُ إِلَى رَمَضَانَ، مُكَفِّرَاتٌ مَا بَيْنَهُنَّ إِذَا اجْتُنِبَتِ الْكَبَائِرُ",
+    "translations": {
+      "tr": "Beş vakit namaz, cumadan cumaya ve ramazandan ramazana, büyük günahlardan kaçınıldığı sürece aralarındaki günahlara kefarettir.",
+      "ar": "الصلوات الخمس، والجمعة إلى الجمعة، ورمضان إلى رمضان، مكفرات ما بينهن إذا اجتنبت الكبائر.",
+      "de": "Die fünf täglichen Gebete, ein Freitagsgebet bis zum nächsten und ein Ramadan bis zum nächsten tilgen die Sünden dazwischen, solange die großen Sünden vermieden werden.",
+      "en": "The five daily prayers, from one Friday prayer to the next, and from one Ramadan to the next, are expiations for whatever sins occur between them, as long as major sins are avoided."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Huraira (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim, Tahâret, 16; Tirmizî, Salât, 160",
+    "bookName": "Sahih-i Müslim",
+    "hadithNumber": "Müslim 233",
+    "notes": "Sahih Hadis"
+  },
+  {
+    "id": "hadith-128",
+    "arabic": "مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ وَتَرَاحُمِهِمْ وَتَعَاطُفِهِمْ مَثَلُ الْجَسَدِ إِذَا اشْتَكَى مِنْهُ عُضْوٌ تَدَاعَى لَهُ سَائِرُ الْجَسَدِ بِالسَّهَرِ وَالْحُمَّى",
+    "translations": {
+      "tr": "Müminler birbirlerini sevmede, birbirlerine merhamet ve şefkat göstermede tek bir beden gibidir. Vücudun bir organı rahatsızlandığında, diğer organlar da uykusuzluk ve ateşle ona ortak olur.",
+      "ar": "مثل المؤمنين في توادهم وتراحمهم وتعاطفهم مثل الجسد إذا اشتكى منه عضو تداعى له سائر الجسد بالسهر والحمى.",
+      "de": "Das Gleichnis der Gläubigen in ihrer gegenseitigen Liebe, Barmherzigkeit und Zuneigung ist wie der Körper: Wenn ein Glied leidet, leidet der ganze Körper mit Schlaflosigkeit und Fieber.",
+      "en": "The example of the believers in their mutual love, mercy, and compassion is like that of a single body: when one limb aches, the entire body responds with sleeplessness and fever."
+    },
+    "narrator": {
+      "tr": "Nu'mân b. Beşîr (r.a.)",
+      "ar": "النعمان بن بشير رضي الله عنه",
+      "de": "Nu'man ibn Baschir (r.a.)",
+      "en": "Nu'man ibn Bashir (r.a.)"
+    },
+    "source": "Buhârî, Edeb, 27; Müslim, Birr, 66",
+    "bookName": "Sahih-i Buhârî & Sahih-i Müslim",
+    "hadithNumber": "Buhârî 6011; Müslim 2586",
+    "notes": "Müttefekun Aleyh (Sahih)"
+  },
+  {
+    "id": "hadith-129",
+    "arabic": "لَيْسَ مِنَّا مَنْ لَمْ يَرْحَمْ صَغِيرَنَا وَيَعْرِفْ شَرَفَ كَبِيرِنَا",
+    "translations": {
+      "tr": "Küçüğümüze merhamet etmeyen, büyüğümüzün saygınlığını bilmeyen bizden değildir.",
+      "ar": "لَيْسَ مِنَّا مَنْ لَمْ يَرْحَمْ صَغِيرَنَا وَيَعْرِفْ شَرَفَ كَبِيرِنَا",
+      "de": "Wer sich unserer Kleinen nicht erbarmt und die Ehre unserer Älteren nicht achtet, gehört nicht zu uns.",
+      "en": "He is not of us who does not have mercy on our young and does not respect the honor of our elders."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Amr (r.a.)",
+      "ar": "عبد الله بن عمرو رضي الله عنهما",
+      "de": "Abdullah ibn Amr (r.a.)",
+      "en": "Abdullah ibn Amr (r.a.)"
+    },
+    "source": "Ebû Dâvûd 4943",
+    "bookName": "Ebû Dâvûd",
+    "hadithNumber": "Ebû Dâvûd 4943",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-130",
+    "arabic": "إِنَّ فِي الْجَنَّةِ بَابًا يُقَالُ لَهُ الرَّيَّانُ، يَدْخُلُ مِنْهُ الصَّائِمُونَ يَوْمَ الْقِيَامَةِ",
+    "translations": {
+      "tr": "Cennette 'Reyyân' denilen bir kapı vardır ki kıyamet gününde oradan ancak oruç tutanlar girer.",
+      "ar": "إِنَّ فِي الْجَنَّةِ بَابًا يُقَالُ لَهُ الرَّيَّانُ، يَدْخُلُ مِنْهُ الصَّائِمُونَ يَوْمَ الْقِيَامَةِ",
+      "de": "Im Paradies gibt es ein Tor namens Ar-Rayyan, durch das am Tag der Auferstehung nur die Fastenden eintreten.",
+      "en": "In Paradise there is a gate called Ar-Rayyan, through which only those who used to fast will enter on the Day of Resurrection."
+    },
+    "narrator": {
+      "tr": "Sehl bin Sa'd (r.a.)",
+      "ar": "سهل بن سعد رضي الله عنه",
+      "de": "Sahl ibn Sa'd (r.a.)",
+      "en": "Sahl ibn Sa'd (r.a.)"
+    },
+    "source": "Buhârî 1896",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 1896",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-131",
+    "arabic": "لَخُلُوفُ فَمِ الصَّائِمِ أَطْيَبُ عِنْدَ اللَّهِ مِنْ رِيحِ الْمِسْكِ",
+    "translations": {
+      "tr": "Oruçlunun ağız kokusu Allah katında misk kokusundan daha güzeldir.",
+      "ar": "لَخُلُوفُ فَمِ الصَّائِمِ أَطْيَبُ عِنْدَ اللَّهِ مِنْ رِيحِ الْمِسْكِ",
+      "de": "Der Mundgeruch des Fastenden ist bei Allah wohlriechender als der Duft von Moschus.",
+      "en": "The unpleasant smell from the mouth of a fasting person is sweeter to Allah than the fragrance of musk."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî 1894",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 1894",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-132",
+    "arabic": "مَنْ أَنْظَرَ مُعْسِرًا أَوْ وَضَعَ عَنْهُ أَظَلَّهُ اللَّهُ فِي ظِلِّهِ",
+    "translations": {
+      "tr": "Kim borcunu ödemekte zorlanan darda kalmış birine mühlet tanır yahut borcunu bağışlarsa, Allah onu kendi gölgesinde gölgelendirir.",
+      "ar": "مَنْ أَنْظَرَ مُعْسِرًا أَوْ وَضَعَ عَنْهُ أَظَلَّهُ اللَّهُ فِي ظِلِّهِ",
+      "de": "Wer einem Schuldner Aufschub gewährt oder ihm erlässt, den beschirmt Allah in Seinem Schatten.",
+      "en": "Whoever grants respite to someone in difficulty or waives his debt, Allah will shade him in His shade."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 3006",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 3006",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-133",
+    "arabic": "سَبْعَةٌ يُظِلُّهُمُ اللَّهُ فِي ظِلِّهِ يَوْمَ لاَ ظِلَّ إِلاَّ ظِلُّهُ: إِمَامٌ عَادِلٌ، وَشَابٌّ نَشَأَ فِي عِبَادَةِ اللَّهِ",
+    "translations": {
+      "tr": "Kendi gölgesinden başka hiçbir gölgenin olmadığı günde Allah yedi sınıf insanı gölgelendirir: Adil yönetici, Allah'a kullukla yetişen genç...",
+      "ar": "سَبْعَةٌ يُظِلُّهُمُ اللَّهُ فِي ظِلِّهِ يَوْمَ لاَ ظِلَّ إِلاَّ ظِلُّهُ: إِمَامٌ عَادِلٌ، وَشَابٌّ نَشَأَ فِي عِبَادَةِ اللَّهِ",
+      "de": "Sieben Personen beschirmt Allah in Seinem Schatten am Tag, da es keinen Schatten gibt außer Seinem: Ein gerechter Führer, ein gottesfürchtiger Jugendlicher...",
+      "en": "Seven people Allah will shade in His shade on the Day when there will be no shade except His: A just leader, a youth raised in the worship of Allah..."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî 660",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 660",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-134",
+    "arabic": "رَكْعَتَا الْفَجْرِ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا",
+    "translations": {
+      "tr": "Sabah namazının iki rekat sünneti, dünyadan ve dünyadaki her şeyden daha hayırlıdır.",
+      "ar": "رَكْعَتَا الْفَجْرِ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا",
+      "de": "Zwei Rakaat des Fadschr-Gebets sind besser als die Welt und alles, was auf ihr ist.",
+      "en": "The two rak'ahs before the dawn prayer are better than this world and all that is in it."
+    },
+    "narrator": {
+      "tr": "Hz. Âişe (r.a.)",
+      "ar": "عائشة رضي الله عنها",
+      "de": "Aisha (r.a.)",
+      "en": "Aisha (r.a.)"
+    },
+    "source": "Müslim 725",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 725",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-135",
+    "arabic": "مَنْ قَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ",
+    "translations": {
+      "tr": "Kim Ramazan gecelerini (teravihi) inanarak ve sevabını Allah'tan umarak ihya ederse geçmiş günahları bağışlanır.",
+      "ar": "مَنْ قَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ",
+      "de": "Wer im Ramadan des Nachts im Glauben und Lohnhoffnung betet, dem werden seine vergangenen Sünden vergeben.",
+      "en": "Whoever prays during the nights of Ramadan out of sincere faith and hoping for reward, his past sins will be forgiven."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî 37",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 37",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-136",
+    "arabic": "إِنَّ اللَّهَ تَعَالَى يَقُولُ: أَنَا عِنْدَ ظَنِّ عَبْدِي بِي، وَأَنَا مَعَهُ إِذَا ذَكَرَنِي",
+    "translations": {
+      "tr": "Allah Teâlâ buyurur: 'Ben kulumun benim hakkımdaki zannı üzereyim; beni andığı zaman ben onunla beraberim.'",
+      "ar": "إِنَّ اللَّهَ تَعَالَى يَقُولُ: أَنَا عِنْدَ ظَنِّ عَبْدِي بِي، وَأَنَا مَعَهُ إِذَا ذَكَرَنِي",
+      "de": "Allah spricht: 'Ich bin so, wie Mein Diener von Mir denkt, und Ich bin mit ihm, wenn er Meiner gedenkt.'",
+      "en": "Allah says: 'I am as My servant thinks of Me, and I am with him when he remembers Me.'"
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî 7405",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 7405",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-137",
+    "arabic": "مَنْ تَقَرَّبَ إِلَيَّ شِبْرًا تَقَرَّبْتُ إِلَيْهِ ذِرَاعًا",
+    "translations": {
+      "tr": "Kim bana bir karış yaklaşırsa ben ona bir arşın yaklaşırım.",
+      "ar": "مَنْ تَقَرَّبَ إِلَيَّ شِبْرًا تَقَرَّبْتُ إِلَيْهِ ذِرَاعًا",
+      "de": "Wer sich Mir eine Spanne nähert, dem nähere Ich Mich eine Elle.",
+      "en": "Whoever draws near to Me a hand span, I draw near to him an arm's length."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî 7405",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 7405",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-138",
+    "arabic": "لاَ يُلْدَغُ الْمُؤْمِنُ مِنْ جُحْرٍ وَاحِدٍ مَرَّتَيْنِ",
+    "translations": {
+      "tr": "Mümin bir delikten iki defa ısırılmaz (aynı hataya iki defa düşmez, basiretli olur).",
+      "ar": "لاَ يُلْدَغُ الْمُؤْمِنُ مِنْ جُحْرٍ وَاحِدٍ مَرَّتَيْنِ",
+      "de": "Der Gläubige wird nicht zweimal aus demselben Loch gebissen.",
+      "en": "A believer is not bitten from the same hole twice."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî 6133",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 6133",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-139",
+    "arabic": "قَالَ اللَّهُ تَعَالَى: يَا ابْنَ آدَمَ إِنَّكَ مَا دَعَوْتَنِي وَرَجَوْتَنِي غَفَرْتُ لَكَ عَلَى مَا كَانَ فِيكَ وَلَا أُبَالِي",
+    "translations": {
+      "tr": "Yüce Allah şöyle buyurdu: \"Ey Âdemoğlu! Sen bana dua ettiğin ve benden umduğun müddetçe, sende bulunan günahlara bakmaksızın seni bağışlarım ve buna aldırmam.\"",
+      "ar": "قال الله تعالى: يا ابن آدم إنك ما دعوتني ورجوتني غفرت لك على ما كان فيك ولا أبالي.",
+      "de": "Allah der Erhabene sprach: \"O Sohn Adams! Solange du Mich anrufst und auf Mich hoffst, vergebe Ich dir, was auch immer du getan hast, und kümmere Mich nicht darum.\"",
+      "en": "Allah Almighty said: \"O son of Adam! As long as you call upon Me and put your hope in Me, I will forgive you for what you have done, and I will not mind.\""
+    },
+    "narrator": {
+      "tr": "Enes b. Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "Tirmizî, Daavât, 98; Ahmed b. Hanbel, Müsned, V, 172",
+    "bookName": "Sünen-i Tirmizî",
+    "hadithNumber": "Tirmizî 3540",
+    "notes": "Kudsî Hadis (Sahih/Hasen)"
+  },
+  {
+    "id": "hadith-140",
+    "arabic": "خَيْرُكُمْ مَنْ يُرْجَى خَيْرُهُ وَيُؤْمَنُ شَرُّهُ",
+    "translations": {
+      "tr": "Sizin en hayırlınız, kendisinden hayır umulan ve kötülüğünden emin olunan kimsedir.",
+      "ar": "خَيْرُكُمْ مَنْ يُرْجَى خَيْرُهُ وَيُؤْمَنُ شَرُّهُ",
+      "de": "Der Beste unter euch ist derjenige, von dem man Gutes erhofft und vor dessen Übel man sicher ist.",
+      "en": "The best of you is he whose good is hoped for, and whose evil is not feared."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Tirmizî 2263",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2263",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-141",
+    "arabic": "إِنَّ الصِّدْقَ طُمَأْنِينَةٌ، وَإِنَّ الْكَذِبَ رِيبَةٌ",
+    "translations": {
+      "tr": "Doğruluk kalbe huzur ve sükûnet verir; yalan ise şüphe ve tedirginlik doğurur.",
+      "ar": "إِنَّ الصِّدْقَ طُمَأْنِينَةٌ، وَإِنَّ الْكَذِبَ رِيبَةٌ",
+      "de": "Wahrhaftigkeit schenkt Seelenruhe; Lüge aber bringt Zweifel und Unrast.",
+      "en": "Truthfulness brings tranquility, while falsehood brings doubt."
+    },
+    "narrator": {
+      "tr": "Hasan bin Ali",
+      "ar": "Hasan bin Ali",
+      "de": "Hasan bin Ali",
+      "en": "Hasan bin Ali"
+    },
+    "source": "Tirmizî 2518",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2518",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-142",
+    "arabic": "الْمُتَحَابُّونَ فِي اللَّهِ عَلَى مَنَابِرَ مِنْ نُورٍ",
+    "translations": {
+      "tr": "Allah için birbirini sevenler, kıyamet gününde nurdan minberler üzerindedirler.",
+      "ar": "الْمُتَحَابُّونَ فِي اللَّهِ عَلَى مَنَابِرَ مِنْ نُورٍ",
+      "de": "Diejenigen, die einander um Allahs willen lieben, stehen am Tag der Auferstehung auf Kanzeln aus Licht.",
+      "en": "Those who love each other for the sake of Allah will be on pulpits of light."
+    },
+    "narrator": {
+      "tr": "Muâz bin Cebel",
+      "ar": "Muâz bin Cebel",
+      "de": "Muâz bin Cebel",
+      "en": "Muâz bin Cebel"
+    },
+    "source": "Tirmizî 2390",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2390",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-143",
+    "arabic": "بَلِّغُوا عَنِّي وَلَوْ آيَةً",
+    "translations": {
+      "tr": "Benden bir ayet dahi olsa insanlara ulaştırın.",
+      "ar": "بَلِّغُوا عَنِّي وَلَوْ آيَةً",
+      "de": "Überbringt von mir, und sei es nur ein einziger Vers.",
+      "en": "Convey from me, even if it is a single verse."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Amr (r.a.)",
+      "ar": "عبد الله بن عمرو رضي الله عنهما",
+      "de": "Abdullah ibn Amr (r.a.)",
+      "en": "Abdullah ibn Amr (r.a.)"
+    },
+    "source": "Buhârî 3461",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 3461",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-144",
+    "arabic": "نَضَّرَ اللَّهُ امْرَأً سَمِعَ مِنَّا شَيْئًا فَبَلَّغَهُ كَمَا سَمِعَهُ",
+    "translations": {
+      "tr": "Bizden bir söz işitip onu işittiği gibi başkasına ulaştıran kimsenin Allah yüzünü ağartsın.",
+      "ar": "نَضَّرَ اللَّهُ امْرَأً سَمِعَ مِنَّا شَيْئًا فَبَلَّغَهُ كَمَا سَمِعَهُ",
+      "de": "Möge Allah das Antlitz dessen erstrahlen lassen, der von uns etwas hört und es weiterträgt, wie er es hörte.",
+      "en": "May Allah brighten the face of a person who hears a saying from us and conveys it just as he heard it."
+    },
+    "narrator": {
+      "tr": "Zeyd bin Sâbit",
+      "ar": "Zeyd bin Sâbit",
+      "de": "Zeyd bin Sâbit",
+      "en": "Zeyd bin Sâbit"
+    },
+    "source": "Tirmizî 2656",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2656",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-145",
+    "arabic": "إِنَّ الدَّالَّ عَلَى الْخَيْرِ كَفَاعِلِهِ",
+    "translations": {
+      "tr": "Hayırlı bir işe vesile olan ve yol gösteren kimse, onu yapan gibidir.",
+      "ar": "إِنَّ الدَّالَّ عَلَى الْخَيْرِ كَفَاعِلِهِ",
+      "de": "Wer zu etwas Gutem anleitet, erhält den gleichen Lohn wie der Handelnde.",
+      "en": "The one who guides to something good is like the one who does it."
+    },
+    "narrator": {
+      "tr": "Enes bin Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "Müslim 1893",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 1893",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-146",
+    "arabic": "مَنْ دَعَا إِلَى هُدًى كَانَ لَهُ مِنَ الأَجْرِ مِثْلُ أُجُورِ مَنْ تَبِعَهُ",
+    "translations": {
+      "tr": "Kim doğru yola ve hidayete çağırırsa, kendisine uyanların sevabı kadar sevap kazanır.",
+      "ar": "مَنْ دَعَا إِلَى هُدًى كَانَ لَهُ مِنَ الأَجْرِ مِثْلُ أُجُورِ مَنْ تَبِعَهُ",
+      "de": "Wer zur Rechtleitung aufruft, erhält Lohn gleich dem Lohn derer, die ihm folgen.",
+      "en": "Whoever calls to guidance will have a reward like that of those who follow him."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Müslim 2674",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2674",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-147",
+    "arabic": "صِلَةُ الرَّحِمِ مَحَبَّةٌ فِي الأَهْلِ، مَثْرَاةٌ فِي الْمَالِ، مَنْسَأَةٌ فِي الأَثَرِ",
+    "translations": {
+      "tr": "Akrabayı gözetmek ailede sevgi, malda bereket ve ömürde iz bırakıcı berekettir.",
+      "ar": "صِلَةُ الرَّحِمِ مَحَبَّةٌ فِي الأَهْلِ، مَثْرَاةٌ فِي الْمَالِ، مَنْسَأَةٌ فِي الأَثَرِ",
+      "de": "Die Pflege der Verwandtschaft bringt Zuneigung in der Familie, Mehrung des Vermögens und Segen für das Andenken.",
+      "en": "Keeping ties of kinship creates love among family, increases wealth, and leaves a blessed legacy."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Tirmizî 1979",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 1979",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-148",
+    "arabic": "الْبِرُّ حُسْنُ الْخُلُقِ، وَالإِثْمُ مَا حَاكَ فِي نَفْسِكَ وَكَرِهْتَ أَنْ يَطَّلِعَ عَلَيْهِ النَّاسُ",
+    "translations": {
+      "tr": "İyilik güzel ahlâktır. Günah ise içini tırmalayan ve insanların bilmesinden hoşlanmadığın şeydir.",
+      "ar": "الْبِرُّ حُسْنُ الْخُلُقِ، وَالإِثْمُ مَا حَاكَ فِي نَفْسِكَ وَكَرِهْتَ أَنْ يَطَّلِعَ عَلَيْهِ النَّاسُ",
+      "de": "Frömmigkeit ist edler Charakter. Sünde ist das, was dein Herz beunruhigt und wovon du nicht willst, dass es die Menschen erfahren.",
+      "en": "Righteousness is good character, and sin is that which wavers in your heart and which you dislike people knowing."
+    },
+    "narrator": {
+      "tr": "Nevvâs bin Sem'ân",
+      "ar": "Nevvâs bin Sem'ân",
+      "de": "Nevvâs bin Sem'ân",
+      "en": "Nevvâs bin Sem'ân"
+    },
+    "source": "Müslim 2553",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2553",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-149",
+    "arabic": "اسْتَفْتِ قَلْبَكَ، وَاسْتَفْتِ نَفْسَكَ؛ الْبِرُّ مَا اطْمَأَنَّتْ إِلَيْهِ النَّفْسُ وَاطْمَأَنَّ إِلَيْهِ الْقَلْبُ",
+    "translations": {
+      "tr": "Kalbini ve vicdanını dinle; iyilik, nefsin ve kalbin huzur duyup yatıştığı şeydir.",
+      "ar": "اسْتَفْتِ قَلْبَكَ، وَاسْتَفْتِ نَفْسَكَ؛ الْبِرُّ مَا اطْمَأَنَّتْ إِلَيْهِ النَّفْسُ وَاطْمَأَنَّ إِلَيْهِ الْقَلْبُ",
+      "de": "Befrage dein Herz; Frömmigkeit ist das, wobei deine Seele Ruhe findet und dein Herz Beruhigung erfährt.",
+      "en": "Consult your heart; righteousness is that about which the soul feels at ease and the heart feels tranquil."
+    },
+    "narrator": {
+      "tr": "Vâbisa bin Ma'bed",
+      "ar": "Vâbisa bin Ma'bed",
+      "de": "Vâbisa bin Ma'bed",
+      "en": "Vâbisa bin Ma'bed"
+    },
+    "source": "Ahmed bin Hanbel",
+    "bookName": "Müsned",
+    "hadithNumber": "Ahmed bin Hanbel",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-150",
+    "arabic": "لاَ يَدْخُلُ الْجَنَّةَ مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ ذَرَّةٍ مِنْ كِبْرٍ",
+    "translations": {
+      "tr": "Kalbinde zerre kadar kibir bulunan kimse cennete giremez.",
+      "ar": "لاَ يَدْخُلُ الْجَنَّةَ مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ ذَرَّةٍ مِنْ كِبْرٍ",
+      "de": "Wer im Herzen auch nur das Gewicht eines Stäubchens an Hochmut trägt, betritt nicht das Paradies.",
+      "en": "He will not enter Paradise who has in his heart an atom's weight of pride."
+    },
+    "narrator": {
+      "tr": "İbn Mes'ûd",
+      "ar": "İbn Mes'ûd",
+      "de": "İbn Mes'ûd",
+      "en": "İbn Mes'ûd"
+    },
+    "source": "Müslim 91",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 91",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-151",
+    "arabic": "الْكِبْرُ بَطَرُ الْحَقِّ وَغَمْطُ النَّاسِ",
+    "translations": {
+      "tr": "Kibir, hakkı inkâr etmek ve insanları hor görmektir.",
+      "ar": "الْكِبْرُ بَطَرُ الْحَقِّ وَغَمْطُ النَّاسِ",
+      "de": "Hochmut ist das Leugnen der Wahrheit und das Verachten der Menschen.",
+      "en": "Pride is rejecting the truth and looking down upon people."
+    },
+    "narrator": {
+      "tr": "İbn Mes'ûd",
+      "ar": "İbn Mes'ûd",
+      "de": "İbn Mes'ûd",
+      "en": "İbn Mes'ûd"
+    },
+    "source": "Müslim 91",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 91",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-152",
+    "arabic": "مَنْ تَوَاضَعَ لِلَّهِ رَفَعَهُ اللَّهُ",
+    "translations": {
+      "tr": "Kim Allah için alçak gönüllü olursa, Allah onu yüceltir.",
+      "ar": "مَنْ تَوَاضَعَ لِلَّهِ رَفَعَهُ اللَّهُ",
+      "de": "Wer sich um Allahs willen demütigt, den erhöht Allah.",
+      "en": "Whoever humbles himself for the sake of Allah, Allah will raise him."
+    },
+    "narrator": {
+      "tr": "Ömer bin Hattâb",
+      "ar": "Ömer bin Hattâb",
+      "de": "Ömer bin Hattâb",
+      "en": "Ömer bin Hattâb"
+    },
+    "source": "Müslim 2588",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 2588",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-153",
+    "arabic": "إِنَّ اللَّهَ أَوْحَى إِلَيَّ أَنْ تَوَاضَعُوا حَتَّى لاَ يَفْخَرَ أَحَدٌ عَلَى أَحَدٍ",
+    "translations": {
+      "tr": "Şüphesiz Allah bana, hiç kimse diğerine karşı övünüp böbürlenmesin diye mütevazı olmanızı vahyetti.",
+      "ar": "إِنَّ اللَّهَ أَوْحَى إِلَيَّ أَنْ تَوَاضَعُوا حَتَّى لاَ يَفْخَرَ أَحَدٌ عَلَى أَحَدٍ",
+      "de": "Allah hat mir offenbart, dass ihr bescheiden sein sollt, damit niemand überheblich über andere wird.",
+      "en": "Allah has revealed to me that you should be humble so that no one behaves arrogantly toward another."
+    },
+    "narrator": {
+      "tr": "İyâz bin Hımâr",
+      "ar": "İyâz bin Hımâr",
+      "de": "İyâz bin Hımâr",
+      "en": "İyâz bin Hımâr"
+    },
+    "source": "Müslim 2865",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 2865",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-154",
+    "arabic": "الْمُؤْمِنُ الَّذِي يُخَالِطُ النَّاسَ وَيَصْبِرُ عَلَى أَذَاهُمْ خَيْرٌ مِنَ الَّذِي لاَ يُخَالِطُ النَّاسَ وَلاَ يَصْبِرُ عَلَى أَذَاهُمْ",
+    "translations": {
+      "tr": "İnsanların arasına karışıp onların eziyetlerine sabreden mümin, insanlardan uzak durup eziyetlerine sabretmeyenden daha hayırlıdır.",
+      "ar": "الْمُؤْمِنُ الَّذِي يُخَالِطُ النَّاسَ وَيَصْبِرُ عَلَى أَذَاهُمْ خَيْرٌ مِنَ الَّذِي لاَ يُخَالِطُ النَّاسَ وَلاَ يَصْبِرُ عَلَى أَذَاهُمْ",
+      "de": "Der Gläubige, der sich unter die Menschen mischt und ihr Unrecht geduldig erträgt, ist besser.",
+      "en": "The believer who mixes with people and is patient with their harm is better than the one who does not."
+    },
+    "narrator": {
+      "tr": "İbn Ömer",
+      "ar": "İbn Ömer",
+      "de": "İbn Ömer",
+      "en": "İbn Ömer"
+    },
+    "source": "Tirmizî 2507",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 2507",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-155",
+    "arabic": "لاَ يَشْكُرُ اللَّهَ مَنْ لاَ يَشْكُرُ النَّاسَ",
+    "translations": {
+      "tr": "İnsanlara teşekkür etmeyen kimse Allah'a da hakkıyla şükretmiş olmaz.",
+      "ar": "لاَ يَشْكُرُ اللَّهَ مَنْ لاَ يَشْكُرُ النَّاسَ",
+      "de": "Wer den Menschen nicht dankt, dankt Allah nicht wahrhaftig.",
+      "en": "He who does not thank people does not thank Allah."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Ebû Dâvûd 4811",
+    "bookName": "Ebû Dâvûd",
+    "hadithNumber": "Ebû Dâvûd 4811",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-156",
+    "arabic": "مَنْ صَنَعَ إِلَيْكُمْ مَعْرُوفًا فَكَافِئُوهُ، فَإِنْ لَمْ تَجِدُوا مَا تُكَافِئُونَهُ فَادْعُوا لَهُ",
+    "translations": {
+      "tr": "Size bir iyilik yapana karşılık verin; karşılık verecek bir şey bulamazsanız onun için dua edin.",
+      "ar": "مَنْ صَنَعَ إِلَيْكُمْ مَعْرُوفًا فَكَافِئُوهُ، فَإِنْ لَمْ تَجِدُوا مَا تُكَافِئُونَهُ فَادْعُوا لَهُ",
+      "de": "Wer euch Gutes tut, dem vergeltet es; findet ihr nichts, so bittet für ihn.",
+      "en": "Whoever does you a favor, reciprocate it; if you find nothing with which to reciprocate, pray for him."
+    },
+    "narrator": {
+      "tr": "İbn Ömer",
+      "ar": "İbn Ömer",
+      "de": "İbn Ömer",
+      "en": "İbn Ömer"
+    },
+    "source": "Ebû Dâvûd 1672",
+    "bookName": "Ebû Dâvûd",
+    "hadithNumber": "Ebû Dâvûd 1672",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-157",
+    "arabic": "إِذَا أَرَادَ اللَّهُ بِأَهْلِ بَيْتٍ خَيْرًا أَدْخَلَ عَلَيْهِمُ الرِّفْقَ",
+    "translations": {
+      "tr": "Allah bir hane halkı hakkında hayır dilerse, onların arasına nezaket ve yumuşaklık koyar.",
+      "ar": "إِذَا أَرَادَ اللَّهُ بِأَهْلِ بَيْتٍ خَيْرًا أَدْخَلَ عَلَيْهِمُ الرِّفْقَ",
+      "de": "Wenn Allah einer Familie Gutes will, schenkt Er ihnen Sanftmut.",
+      "en": "If Allah wants good for a household, He introduces gentleness among them."
+    },
+    "narrator": {
+      "tr": "Hz. Âişe (r.a.)",
+      "ar": "عائشة رضي الله عنها",
+      "de": "Aisha (r.a.)",
+      "en": "Aisha (r.a.)"
+    },
+    "source": "Ahmed bin Hanbel",
+    "bookName": "Müsned",
+    "hadithNumber": "Ahmed bin Hanbel",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-158",
+    "arabic": "مَنْ أُعْطِيَ حَظَّهُ مِنَ الرِّفْقِ فَقَدْ أُعْطِيَ حَظَّهُ مِنَ الْخَيْرِ",
+    "translations": {
+      "tr": "Kime yumuşaklık ve nezaketten nasip verilmişse, ona hayırdan büyük bir pay verilmiştir.",
+      "ar": "مَنْ أُعْطِيَ حَظَّهُ مِنَ الرِّفْقِ فَقَدْ أُعْطِيَ حَظَّهُ مِنَ الْخَيْرِ",
+      "de": "Wem sein Anteil an Sanftmut gegeben wurde, dem wurde sein Anteil an allem Guten gegeben.",
+      "en": "Hz. Âişe"
+    },
+    "narrator": {
+      "tr": "Tirmizî 2013",
+      "ar": "Tirmizî 2013",
+      "de": "Tirmizî 2013",
+      "en": "Tirmizî 2013"
+    },
+    "source": "Tirmizî",
+    "hadithNumber": "Tirmizî",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-159",
+    "arabic": "الْمَرْءُ مَعَ مَنْ أَحَبَّ",
+    "translations": {
+      "tr": "Kişi sevdiği ile beraberdir.",
+      "ar": "الْمَرْءُ مَعَ مَنْ أَحَبَّ",
+      "de": "Der Mensch wird mit dem sein, den er liebt.",
+      "en": "A person will be with whom he loves."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Mes'ûd (r.a.)",
+      "ar": "عبد الله بن مسعود رضي الله عنه",
+      "de": "Abdullah ibn Mas'ud (r.a.)",
+      "en": "Abdullah ibn Mas'ud (r.a.)"
+    },
+    "source": "Buhârî 6168",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 6168",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-160",
+    "arabic": "الْمَرْءُ عَلَى دِينِ خَلِيلِهِ، فَلْيَنْظُرْ أَحَدُكُمْ مَنْ يُخَالِلُ",
+    "translations": {
+      "tr": "Kişi dostunun dini üzeredir; öyleyse her biriniz kiminle dostluk kurduğuna dikkat etsin.",
+      "ar": "الْمَرْءُ عَلَى دِينِ خَلِيلِهِ، فَلْيَنْظُرْ أَحَدُكُمْ مَنْ يُخَالِلُ",
+      "de": "Ein Mensch folgt der Religion seines Freundes; daher schaue jeder von euch, wen er sich zum Freund nimmt.",
+      "en": "A man follows the religion of his close friend, so each of you should look at whom he befriends."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Ebû Dâvûd 4833",
+    "bookName": "Ebû Dâvûd",
+    "hadithNumber": "Ebû Dâvûd 4833",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-161",
+    "arabic": "إِنَّ اللَّهَ حَيِيٌّ كَرِيمٌ يَسْتَحْيِي إِذَا رَفَعَ الرَّجُلُ إِلَيْهِ يَدَيْهِ أَنْ يَرُدَّهُمَا صِفْرًا",
+    "translations": {
+      "tr": "Şüphesiz Allah hayâ ve kerem sahibidir; kulu ellerini açıp kendisine dua ettiğinde o elleri boş çevirmekten hayâ eder.",
+      "ar": "إِنَّ اللَّهَ حَيِيٌّ كَرِيمٌ يَسْتَحْيِي إِذَا رَفَعَ الرَّجُلُ إِلَيْهِ يَدَيْهِ أَنْ يَرُدَّهُمَا صِفْرًا",
+      "de": "Wahrlich, Allah ist schamhaft und großzügig; Er schämt Sich, wenn Sein Diener die Hände zu Ihm erhebt, sie leer abzuweisen.",
+      "en": "Indeed, Allah is modest and generous; He is shy, when a man raises his hands to Him, to turn them back empty."
+    },
+    "narrator": {
+      "tr": "Selmân-ı Fârisî",
+      "ar": "Selmân-ı Fârisî",
+      "de": "Selmân-ı Fârisî",
+      "en": "Selmân-ı Fârisî"
+    },
+    "source": "Ebû Dâvûd 1488",
+    "bookName": "Ebû Dâvûd",
+    "hadithNumber": "Ebû Dâvûd 1488",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-162",
+    "arabic": "لاَ يَتَمَنَّيَنَّ أَحَدُكُمُ الْمَوْتَ لِضُرٍّ نَزَلَ بِهِ",
+    "translations": {
+      "tr": "Sizden hiç kimse başına gelen bir sıkıntı ve musibetten dolayı sakın ölümü istemesin.",
+      "ar": "لاَ يَتَمَنَّيَنَّ أَحَدُكُمُ الْمَوْتَ لِضُرٍّ نَزَلَ بِهِ",
+      "de": "Niemand von euch soll den Tod wünschen wegen eines Leids, das ihn getroffen hat.",
+      "en": "None of you should wish for death because of a harm that has afflicted him."
+    },
+    "narrator": {
+      "tr": "Enes bin Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "Buhârî 5671",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 5671",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-163",
+    "arabic": "الصَّبْرُ عِنْدَ الصَّدْمَةِ الأُولَى",
+    "translations": {
+      "tr": "Gerçek sabır, musibetin ilk anında gösterilen sabırdır.",
+      "ar": "الصَّبْرُ عِنْدَ الصَّدْمَةِ الأُولَى",
+      "de": "Wahre Geduld zeigt sich beim ersten Schock des Unglücks.",
+      "en": "Patience is only at the first shock of an affliction."
+    },
+    "narrator": {
+      "tr": "Enes bin Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "Buhârî 1283",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 1283",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-164",
+    "arabic": "مَنْ مَاتَ وَهُوَ يَعْلَمُ أَنَّهُ لاَ إِلَهَ إِلاَّ اللَّهُ دَخَلَ الْجَنَّةَ",
+    "translations": {
+      "tr": "Kim 'Lâ ilâhe illallâh' gerçeğini bilerek ve tasdik ederek vefat ederse cennete girer.",
+      "ar": "مَنْ مَاتَ وَهُوَ يَعْلَمُ أَنَّهُ لاَ إِلَهَ إِلاَّ اللَّهُ دَخَلَ الْجَنَّةَ",
+      "de": "Wer stirbt und weiß, dass kein Gott da ist außer Allah, betritt das Paradies.",
+      "en": "Whoever dies knowing that there is no deity except Allah will enter Paradise."
+    },
+    "narrator": {
+      "tr": "Hz. Osman",
+      "ar": "Hz. Osman",
+      "de": "Hz. Osman",
+      "en": "Hz. Osman"
+    },
+    "source": "Müslim 26",
+    "bookName": "Müslim",
+    "hadithNumber": "Müslim 26",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-165",
+    "arabic": "إِنَّ فِي الْجَسَدِ مُضْغَةً إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ؛ أَلاَ وَهِيَ الْقَلْبُ",
+    "translations": {
+      "tr": "Bilin ki bedende bir et parçası vardır; o düzelirse bütün beden düzelir, o bozulursa bütün beden bozulur. Dikkat edin, o kalptir!",
+      "ar": "إِنَّ فِي الْجَسَدِ مُضْغَةً إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ؛ أَلاَ وَهِيَ الْقَلْبُ",
+      "de": "Im Körper gibt es ein Stück Fleisch: Wenn es gut ist, ist der ganze Körper gut; wenn es verdirbt, verdirbt der ganze Körper – das ist das Herz!",
+      "en": "There is a piece of flesh in the body: if it becomes good, the whole body becomes good; but if it gets spoilt, the whole body gets spoilt - and that is the heart!"
+    },
+    "narrator": {
+      "tr": "Nu'mân bin Beşîr",
+      "ar": "Nu'mân bin Beşîr",
+      "de": "Nu'mân bin Beşîr",
+      "en": "Nu'mân bin Beşîr"
+    },
+    "source": "Buhârî 52",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 52",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-166",
+    "arabic": "الْحَلاَلُ بَيِّنٌ وَالْحَرَامُ بَيِّنٌ، وَبَيْنَهُمَا مُشْتَبِهَاتٌ",
+    "translations": {
+      "tr": "Helal bellidir, haram da bellidir; ikisi arasında ise insanların çoğunun bilmediği şüpheli şeyler vardır.",
+      "ar": "الْحَلاَلُ بَيِّنٌ وَالْحَرَامُ بَيِّنٌ، وَبَيْنَهُمَا مُشْتَبِهَاتٌ",
+      "de": "Das Erlaubte ist klar und das Verbotene ist klar; und zwischen beiden liegen zweifelhafte Dinge.",
+      "en": "The lawful is clear and the unlawful is clear, and between them are doubtful matters."
+    },
+    "narrator": {
+      "tr": "Nu'mân bin Beşîr",
+      "ar": "Nu'mân bin Beşîr",
+      "de": "Nu'mân bin Beşîr",
+      "en": "Nu'mân bin Beşîr"
+    },
+    "source": "Buhârî 52",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 52",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-167",
+    "arabic": "لاَ إِيمَانَ لِمَنْ لاَ أَمَانَةَ لَهُ، وَلاَ دِينَ لِمَنْ لاَ عَهْدَ لَهُ",
+    "translations": {
+      "tr": "Emanete riayet etmeyenin gerçek bir imanı yoktur; ahdine vefa göstermeyenin de gerçek bir dini yoktur.",
+      "ar": "لاَ إِيمَانَ لِمَنْ لاَ أَمَانَةَ لَهُ، وَلاَ دِينَ لِمَنْ لاَ عَهْدَ لَهُ",
+      "de": "Wer keine Treue hat, hat keinen wahren Glauben; und wer sein Wort bricht, hat keine wahre Religion.",
+      "en": "He who has no trustworthiness has no faith, and he who does not keep his covenant has no religion."
+    },
+    "narrator": {
+      "tr": "Enes bin Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "Ahmed bin Hanbel",
+    "bookName": "Müsned",
+    "hadithNumber": "Ahmed bin Hanbel",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-168",
+    "arabic": "آيَةُ الْمُنَافِقِ ثَلاَثٌ: إِذَا حَدَّثَ كَذَبَ، وَإِذَا وَعَدَ أَخْلَفَ، وَإِذَا اؤْتُمِنَ خَانَ",
+    "translations": {
+      "tr": "Münafığın alameti üçtür: Konuştuğunda yalan söyler, söz verdiğinde cayar, kendisine bir şey emanet edildiğinde hıyanet eder.",
+      "ar": "آيَةُ الْمُنَافِقِ ثَلاَثٌ: إِذَا حَدَّثَ كَذَبَ، وَإِذَا وَعَدَ أَخْلَفَ، وَإِذَا اؤْتُمِنَ خَانَ",
+      "de": "Die Zeichen des Heuchlers sind drei: Wenn er spricht, lügt er; wenn er verspricht, bricht er es; und wenn ihm vertraut wird, betrügt er.",
+      "en": "The signs of a hypocrite are three: Whenever he speaks, he tells a lie; whenever he promises, he breaks it; and whenever he is trusted, he proves treacherous."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Buhârî 33",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 33",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-169",
+    "arabic": "أَعْطُوا الأَجِيرَ أَجْرَهُ قَبْلَ أَنْ يَجِفَّ عَرَقُهُ",
+    "translations": {
+      "tr": "İşçiye ücretini teri kurumadan önce verin.",
+      "ar": "أَعْطُوا الأَجِيرَ أَجْرَهُ قَبْلَ أَنْ يَجِفَّ عَرَقُهُ",
+      "de": "Gebt dem Arbeiter seinen Lohn, bevor sein Schweiß trocknet.",
+      "en": "Give the worker his wages before his sweat dries."
+    },
+    "narrator": {
+      "tr": "İbn Ömer",
+      "ar": "İbn Ömer",
+      "de": "İbn Ömer",
+      "en": "İbn Ömer"
+    },
+    "source": "İbn Mâce 2443",
+    "bookName": "İbn Mâce",
+    "hadithNumber": "İbn Mâce 2443",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-170",
+    "arabic": "الْمُسْتَشَارُ مُؤْتَمَنٌ",
+    "translations": {
+      "tr": "Kendisine danışılan kimse emanet ehlidir (doğru ve samimi rehberlik etmelidir).",
+      "ar": "الْمُسْتَشَارُ مُؤْتَمَنٌ",
+      "de": "Wer um Rat gefragt wird, ist ein Treuhänder.",
+      "en": "The one who is consulted is in a position of trust."
+    },
+    "narrator": {
+      "tr": "Ebû Hüreyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Hurairah (r.a.)",
+      "en": "Abu Hurairah (r.a.)"
+    },
+    "source": "Ebû Dâvûd 5128",
+    "bookName": "Ebû Dâvûd",
+    "hadithNumber": "Ebû Dâvûd 5128",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-171",
+    "arabic": "مَنْ كَانَ فِي حَاجَةِ أَخِيهِ كَانَ اللَّهُ فِي حَاجَتِهِ",
+    "translations": {
+      "tr": "Kim kardeşinin ihtiyacını görürse, Allah da onun ihtiyacını görür.",
+      "ar": "مَنْ كَانَ فِي حَاجَةِ أَخِيهِ كَانَ اللَّهُ فِي حَاجَتِهِ",
+      "de": "Wer seinem Bruder in der Not hilft, dem hilft Allah in seiner Not.",
+      "en": "Whoever helps his brother in his need, Allah will help him in his need."
+    },
+    "narrator": {
+      "tr": "İbn Ömer",
+      "ar": "İbn Ömer",
+      "de": "İbn Ömer",
+      "en": "İbn Ömer"
+    },
+    "source": "Buhârî 2442",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 2442",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-172",
+    "arabic": "مَا عَلَى الأَرْضِ مُسْلِمٌ يَدْعُو اللَّهَ بِدَعْوَةٍ إِلاَّ آتَاهُ اللَّهُ إِيَّاهَا أَوْ صَرَفَ عَنْهُ مِنَ السُّوءِ مِثْلَهَا",
+    "translations": {
+      "tr": "Yeryüzünde hiçbir Müslüman yoktur ki Allah'a bir dua etsin de Allah onun duasını kabul etmesin yahut onun dengi bir kötülüğü ondan savmasın.",
+      "ar": "مَا عَلَى الأَرْضِ مُسْلِمٌ يَدْعُو اللَّهَ بِدَعْوَةٍ إِلاَّ آتَاهُ اللَّهُ إِيَّاهَا أَوْ صَرَفَ عَنْهُ مِنَ السُّوءِ مِثْلَهَا",
+      "de": "Kein Muslim auf Erden ruft Allah mit einem Bittgebet an, ohne dass Allah es erhört oder ein entsprechendes Übel von ihm abwendet.",
+      "en": "There is no Muslim on earth who calls upon Allah with a supplication but that Allah gives it to him or averts from him a similar evil."
+    },
+    "narrator": {
+      "tr": "Ubâde bin es-Sâmit",
+      "ar": "Ubâde bin es-Sâmit",
+      "de": "Ubâde bin es-Sâmit",
+      "en": "Ubâde bin es-Sâmit"
+    },
+    "source": "Tirmizî 3573",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 3573",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-173",
+    "arabic": "أَحَبُّ الدِّينِ إِلَى اللَّهِ الْحَنِيفِيَّةُ السَّمْحَةُ",
+    "translations": {
+      "tr": "Allah katında dinin en sevimlisi, kolaylık ve hoşgörü esasına dayalı tevhid yoludur.",
+      "ar": "أَحَبُّ الدِّينِ إِلَى اللَّهِ الْحَنِيفِيَّةُ السَّمْحَةُ",
+      "de": "Die Allah liebste Religion ist der aufrichtige, tolerante Monotheismus.",
+      "en": "The most beloved religion to Allah is the tolerant orthodox monotheism."
+    },
+    "narrator": {
+      "tr": "İbn Abbâs (r.a.)",
+      "ar": "عبد الله بن عباس رضي الله عنهما",
+      "de": "Ibn Abbas (r.a.)",
+      "en": "Ibn Abbas (r.a.)"
+    },
+    "source": "Buhârî, el-Edebü'l-Müfred",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî, el-Edebü'l-Müfred",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-174",
+    "arabic": "إِنَّ اللَّهَ مَعَ الْقَاضِي مَا لَمْ يَجُرْ، فَإِذَا جَارَ تَخَلَّى عَنْهُ وَلَزِمَهُ الشَّيْطَانُ",
+    "translations": {
+      "tr": "Hüküm veren kimse zulmetmediği sürece Allah onunla beraberdir; haksızlık ettiğinde ise Allah onu terk eder.",
+      "ar": "إِنَّ اللَّهَ مَعَ الْقَاضِي مَا لَمْ يَجُرْ، فَإِذَا جَارَ تَخَلَّى عَنْهُ وَلَزِمَهُ الشَّيْطَانُ",
+      "de": "Allah ist mit dem Richter, solange er gerecht richtet; weicht er davon ab, weicht Er von ihm.",
+      "en": "Allah is with the judge as long as he does not act unjustly; if he does, Allah leaves him."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Ebî Evfâ",
+      "ar": "Abdullah bin Ebî Evfâ",
+      "de": "Abdullah bin Ebî Evfâ",
+      "en": "Abdullah bin Ebî Evfâ"
+    },
+    "source": "Tirmizî 1330",
+    "bookName": "Tirmizî",
+    "hadithNumber": "Tirmizî 1330",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-175",
+    "arabic": "أَكْثِرُوا مِنْ قَوْلِ: لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ، فَإِنَّهَا كَنْزٌ مِنْ كُنُوزِ الْجَنَّةِ",
+    "translations": {
+      "tr": "'Lâ havle ve lâ kuvvete illâ billâh' (Güç ve kuvvet ancak Allah'a mahsustur) sözünü çokça söyleyin; çünkü o cennet hazinelerinden bir hazinedir.",
+      "ar": "أَكْثِرُوا مِنْ قَوْلِ: لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ، فَإِنَّهَا كَنْزٌ مِنْ كُنُوزِ الْجَنَّةِ",
+      "de": "Sprecht häufig: 'Keine Macht noch Kraft gibt es außer durch Allah', denn es ist ein Schatz aus den Schätzen des Paradieses.",
+      "en": "Say often: 'There is no might nor power except by Allah', for it is one of the treasures of Paradise."
+    },
+    "narrator": {
+      "tr": "Ebû Mûsâ el-Eş'arî",
+      "ar": "Ebû Mûsâ el-Eş'arî",
+      "de": "Ebû Mûsâ el-Eş'arî",
+      "en": "Ebû Mûsâ el-Eş'arî"
+    },
+    "source": "Buhârî 4205",
+    "bookName": "Buhârî",
+    "hadithNumber": "Buhârî 4205",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-176",
+    "arabic": "اتَّقُوا اللَّهَ وَاعْدِلُوا بَيْنَ أَوْلَادِكُمْ",
+    "translations": {
+      "tr": "Allah'tan korkun ve çocuklarınız arasında adaletli davranın.",
+      "ar": "اتقوا الله واعدلوا بين أولادكم.",
+      "de": "Fürchtet Allah und seid gerecht unter euren Kindern.",
+      "en": "Fear Allah and be just among your children."
+    },
+    "narrator": {
+      "tr": "Nu'mân b. Beşîr (r.a.)",
+      "ar": "النعمان بن بشير رضي الله عنه",
+      "de": "Nu'man ibn Baschir (r.a.)",
+      "en": "Nu'man ibn Bashir (r.a.)"
+    },
+    "source": "Buhârî, Hibe, 12; Müslim, Hibât, 13",
+    "bookName": "Sahih-i Buhârî & Sahih-i Müslim",
+    "hadithNumber": "Buhârî 2587; Müslim 1623",
+    "notes": "Müttefekun Aleyh (Sahih)"
+  },
+  {
+    "id": "hadith-177",
+    "arabic": "إِنَّ اللَّهَ لاَ يَقْبَلُ مِنَ الْعَمَلِ إِلاَّ مَا كَانَ لَهُ خَالِصًا وَابْتُغِيَ بِهِ وَجْهُهُ",
+    "translations": {
+      "tr": "Şüphesiz Allah, ancak sırf kendi rızası için yapılan ve kendi zatı gözetilen amelleri kabul eder.",
+      "ar": "إِنَّ اللَّهَ لاَ يَقْبَلُ مِنَ الْعَمَلِ إِلاَّ مَا كَانَ لَهُ خَالِصًا وَابْتُغِيَ بِهِ وَجْهُهُ",
+      "de": "Wahrlich, Allah nimmt von den Taten nur das an, was aufrichtig für Ihn getan wurde im Streben nach Seinem Wohlgefallen.",
+      "en": "Indeed, Allah does not accept any deed except that which is purely for Him and seeks His countenance."
+    },
+    "narrator": {
+      "tr": "Ebû Ümâme",
+      "ar": "Ebû Ümâme",
+      "de": "Ebû Ümâme",
+      "en": "Ebû Ümâme"
+    },
+    "source": "Nesâî 3140",
+    "bookName": "Nesâî",
+    "hadithNumber": "Nesâî 3140",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-178",
+    "arabic": "أُمُّكَ، ثُمَّ أُمُّكَ، ثُمَّ أُمُّكَ، ثُمَّ أَبُوكَ",
+    "translations": {
+      "tr": "Annen, sonra annen, sonra annen, sonra baban.",
+      "ar": "أُمُّكَ، ثُمَّ أُمُّكَ، ثُمَّ أُمُّكَ، ثُمَّ أَبُوكَ",
+      "de": "Deine Mutter, dann deine Mutter, dann deine Mutter, dann dein Vater.",
+      "en": "Your mother, then your mother, then your mother, then your father."
+    },
+    "narrator": {
+      "tr": "Ebû Hureyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Huraira (r.a.)",
+      "en": "Abu Hurayrah (r.a.)"
+    },
+    "source": "Buhârî 5971, Müslim 2548",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 5971",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-179",
+    "arabic": "مَنْ يَضْمَنْ لِي مَا بَيْنَ لَحْيَيْهِ وَمَا بَيْنَ رِجْلَيْهِ أَضْمَنْ لَهُ الْجَنَّةَ",
+    "translations": {
+      "tr": "Kim bana iki çenesi arasındakini (dilini) ve iki bacağı arasındakini (haya yerini) korumayı garanti ederse, ben de ona cenneti garanti ederim.",
+      "ar": "مَنْ يَضْمَنْ لِي مَا بَيْنَ لَحْيَيْهِ وَمَا بَيْنَ رِجْلَيْهِ أَضْمَنْ لَهُ الْجَنَّةَ",
+      "de": "Wer mir garantiert, was zwischen seinen Kiefern und zwischen seinen Beinen ist, dem garantiere ich das Paradies.",
+      "en": "Whoever guarantees me what is between his jaws and what is between his legs, I guarantee him Paradise."
+    },
+    "narrator": {
+      "tr": "Sehl bin Sa‘d (r.a.)",
+      "ar": "سهل بن سعد رضي الله عنه",
+      "de": "Sahl ibn Sa‘d (r.a.)",
+      "en": "Sahl ibn Sa‘d (r.a.)"
+    },
+    "source": "Buhârî 6474",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 6474",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-180",
+    "arabic": "لَا تَحْقِرَنَّ مِنَ الْمَعْرُوفِ شَيْئًا، وَلَوْ أَنْ تَلْقَى أَخَاكَ بِوَجْهٍ طَلْقٍ",
+    "translations": {
+      "tr": "İyilikten hiçbir şeyi küçümseme; kardeşinle güler yüzle karşılaşman bile olsa.",
+      "ar": "لَا تَحْقِرَنَّ مِنَ الْمَعْرُوفِ شَيْئًا، وَلَوْ أَنْ تَلْقَى أَخَاكَ بِوَجْهٍ طَلْقٍ",
+      "de": "Verachte nichts Gutes, und sei es, dass du deinem Bruder mit freundlichem Gesicht begegnest.",
+      "en": "Do not belittle any act of kindness, even meeting your brother with a cheerful face."
+    },
+    "narrator": {
+      "tr": "Ebû Zer el-Gıfârî (r.a.)",
+      "ar": "أبو ذر الغفاري رضي الله عنه",
+      "de": "Abu Dharr al-Ghifari (r.a.)",
+      "en": "Abu Dharr al-Ghifari (r.a.)"
+    },
+    "source": "Müslim 2626",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 2626",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-181",
+    "arabic": "وَتُمِيطُ الْأَذَى عَنِ الطَّرِيقِ صَدَقَةٌ",
+    "translations": {
+      "tr": "Yoldan eziyet verici şeyi kaldırman bir sadakadır.",
+      "ar": "وَتُمِيطُ الْأَذَى عَنِ الطَّرِيقِ صَدَقَةٌ",
+      "de": "Dass du Schädliches vom Weg entfernst, ist ein Almosen.",
+      "en": "Removing something harmful from the road is charity."
+    },
+    "narrator": {
+      "tr": "Ebû Hureyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Huraira (r.a.)",
+      "en": "Abu Hurayrah (r.a.)"
+    },
+    "source": "Buhârî 2989, Müslim 1009",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 2989",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-182",
+    "arabic": "فِي كُلِّ كَبِدٍ رَطْبَةٍ أَجْرٌ",
+    "translations": {
+      "tr": "Her canlıya (susuz bir ciğere) yapılan iyilikte sevap vardır.",
+      "ar": "فِي كُلِّ كَبِدٍ رَطْبَةٍ أَجْرٌ",
+      "de": "Für jede Wohltat an einem lebenden Wesen gibt es Lohn.",
+      "en": "There is a reward for kindness to every living creature."
+    },
+    "narrator": {
+      "tr": "Ebû Hureyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Huraira (r.a.)",
+      "en": "Abu Hurayrah (r.a.)"
+    },
+    "source": "Buhârî 2466, Müslim 2244",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 2466",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-183",
+    "arabic": "مَا مِنْ مُسْلِمٍ يَغْرِسُ غَرْسًا أَوْ يَزْرَعُ زَرْعًا فَيَأْكُلُ مِنْهُ طَيْرٌ أَوْ إِنْسَانٌ أَوْ بَهِيمَةٌ إِلَّا كَانَ لَهُ بِهِ صَدَقَةٌ",
+    "translations": {
+      "tr": "Bir müslüman bir ağaç diker veya ekin eker de ondan bir kuş, insan ya da hayvan yerse, bu ona sadaka olur.",
+      "ar": "مَا مِنْ مُسْلِمٍ يَغْرِسُ غَرْسًا أَوْ يَزْرَعُ زَرْعًا فَيَأْكُلُ مِنْهُ طَيْرٌ أَوْ إِنْسَانٌ أَوْ بَهِيمَةٌ إِلَّا كَانَ لَهُ بِهِ صَدَقَةٌ",
+      "de": "Wenn ein Muslim einen Baum pflanzt oder etwas sät und davon ein Vogel, ein Mensch oder ein Tier isst, so ist es für ihn ein Almosen.",
+      "en": "If a Muslim plants a tree or sows a crop and a bird, a person or an animal eats from it, it is charity for him."
+    },
+    "narrator": {
+      "tr": "Enes bin Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "Buhârî 2320, Müslim 1553",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 2320",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-184",
+    "arabic": "بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلَاةِ، وَإِيتَاءِ الزَّكَاةِ، وَحَجِّ الْبَيْتِ، وَصَوْمِ رَمَضَانَ",
+    "translations": {
+      "tr": "İslam beş şey üzerine kurulmuştur: Allah’tan başka ilah olmadığına ve Muhammed’in Allah’ın Resulü olduğuna şahitlik etmek, namaz kılmak, zekât vermek, hacca gitmek ve Ramazan orucunu tutmak.",
+      "ar": "بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلَاةِ، وَإِيتَاءِ الزَّكَاةِ، وَحَجِّ الْبَيْتِ، وَصَوْمِ رَمَضَانَ",
+      "de": "Der Islam ist auf fünf Säulen gebaut: das Bezeugen, dass es keinen Gott außer Allah gibt und Muhammad Sein Gesandter ist, das Gebet, die Almosensteuer, die Pilgerfahrt und das Fasten im Ramadan.",
+      "en": "Islam is built on five: testifying that there is no god but Allah and that Muhammad is the Messenger of Allah, establishing prayer, giving zakat, performing Hajj, and fasting Ramadan."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Ömer (r.a.)",
+      "ar": "عبد الله بن عمر رضي الله عنهما",
+      "de": "Abdullah ibn Umar (r.a.)",
+      "en": "Abdullah ibn Umar (r.a.)"
+    },
+    "source": "Buhârî 8, Müslim 16",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 8",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-185",
+    "arabic": "قُلْ آمَنْتُ بِاللَّهِ ثُمَّ اسْتَقِمْ",
+    "translations": {
+      "tr": "“Allah’a inandım” de, sonra dosdoğru ol.",
+      "ar": "قُلْ آمَنْتُ بِاللَّهِ ثُمَّ اسْتَقِمْ",
+      "de": "Sprich: Ich glaube an Allah, und dann bleibe aufrecht.",
+      "en": "Say: I believe in Allah, and then be steadfast."
+    },
+    "narrator": {
+      "tr": "Süfyân bin Abdullah (r.a.)",
+      "ar": "سفيان بن عبد الله رضي الله عنه",
+      "de": "Sufyan ibn Abdullah (r.a.)",
+      "en": "Sufyan ibn Abdullah (r.a.)"
+    },
+    "source": "Müslim 38",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 38",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-186",
+    "arabic": "كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الْمِيزَانِ، حَبِيبَتَانِ إِلَى الرَّحْمَنِ: سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+    "translations": {
+      "tr": "İki kelime vardır: Dile hafif, mizanda ağır, Rahman’a sevimlidir: “Subhânallâhi ve bihamdihî, Subhânallâhil-azîm.”",
+      "ar": "كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الْمِيزَانِ، حَبِيبَتَانِ إِلَى الرَّحْمَنِ: سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+      "de": "Zwei Worte sind leicht auf der Zunge, schwer auf der Waage und dem Allerbarmer lieb: „Subhanallahi wa bihamdihi, subhanallahil-azim.“",
+      "en": "Two words are light on the tongue, heavy on the scale, and beloved to the Most Merciful: “Subhanallahi wa bihamdihi, Subhanallahil-azim.”"
+    },
+    "narrator": {
+      "tr": "Ebû Hureyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Huraira (r.a.)",
+      "en": "Abu Hurayrah (r.a.)"
+    },
+    "source": "Buhârî 6406, Müslim 2694",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 6406",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-187",
+    "arabic": "مَنْ صَلَّى عَلَيَّ صَلَاةً صَلَّى اللَّهُ عَلَيْهِ بِهَا عَشْرًا",
+    "translations": {
+      "tr": "Kim bana bir defa salavat getirirse, Allah ona karşılık on defa rahmet eder.",
+      "ar": "مَنْ صَلَّى عَلَيَّ صَلَاةً صَلَّى اللَّهُ عَلَيْهِ بِهَا عَشْرًا",
+      "de": "Wer einmal den Segen über mich spricht, über den spricht Allah dafür zehnmal den Segen.",
+      "en": "Whoever sends one blessing upon me, Allah sends ten blessings upon him."
+    },
+    "narrator": {
+      "tr": "Ebû Hureyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Huraira (r.a.)",
+      "en": "Abu Hurayrah (r.a.)"
+    },
+    "source": "Müslim 408",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 408",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-188",
+    "arabic": "لِلصَّائِمِ فَرْحَتَانِ: فَرْحَةٌ عِنْدَ فِطْرِهِ، وَفَرْحَةٌ عِنْدَ لِقَاءِ رَبِّهِ",
+    "translations": {
+      "tr": "Oruçlunun iki sevinci vardır: Biri orucunu açtığı zaman, diğeri Rabbine kavuştuğu zaman.",
+      "ar": "لِلصَّائِمِ فَرْحَتَانِ: فَرْحَةٌ عِنْدَ فِطْرِهِ، وَفَرْحَةٌ عِنْدَ لِقَاءِ رَبِّهِ",
+      "de": "Der Fastende hat zwei Freuden: eine beim Fastenbrechen und eine bei der Begegnung mit seinem Herrn.",
+      "en": "The fasting person has two joys: one when he breaks his fast and one when he meets his Lord."
+    },
+    "narrator": {
+      "tr": "Ebû Hureyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Huraira (r.a.)",
+      "en": "Abu Hurayrah (r.a.)"
+    },
+    "source": "Buhârî 1904, Müslim 1151",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 1904",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-189",
+    "arabic": "تَسَحَّرُوا فَإِنَّ فِي السَّحُورِ بَرَكَةً",
+    "translations": {
+      "tr": "Sahur yapın; çünkü sahurda bereket vardır.",
+      "ar": "تَسَحَّرُوا فَإِنَّ فِي السَّحُورِ بَرَكَةً",
+      "de": "Nehmt die Morgenmahlzeit ein, denn in ihr liegt Segen.",
+      "en": "Eat the pre-dawn meal, for there is blessing in it."
+    },
+    "narrator": {
+      "tr": "Enes bin Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "Buhârî 1923, Müslim 1095",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 1923",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-190",
+    "arabic": "سَوُّوا صُفُوفَكُمْ فَإِنَّ تَسْوِيَةَ الصَّفِّ مِنْ تَمَامِ الصَّلَاةِ",
+    "translations": {
+      "tr": "Saflarınızı düzeltin; çünkü safların düzgün olması namazın tamamlanmasındandır.",
+      "ar": "سَوُّوا صُفُوفَكُمْ فَإِنَّ تَسْوِيَةَ الصَّفِّ مِنْ تَمَامِ الصَّلَاةِ",
+      "de": "Richtet eure Reihen aus, denn das Ausrichten der Reihe gehört zur Vollkommenheit des Gebets.",
+      "en": "Straighten your rows, for straightening the rows is part of the perfection of prayer."
+    },
+    "narrator": {
+      "tr": "Enes bin Mâlik (r.a.)",
+      "ar": "أنس بن مالك رضي الله عنه",
+      "de": "Anas ibn Malik (r.a.)",
+      "en": "Anas ibn Malik (r.a.)"
+    },
+    "source": "Müslim 433",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 433",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-191",
+    "arabic": "إِذَا دَخَلَ أَحَدُكُمُ الْمَسْجِدَ فَلْيَرْكَعْ رَكْعَتَيْنِ قَبْلَ أَنْ يَجْلِسَ",
+    "translations": {
+      "tr": "Biriniz mescide girdiğinde oturmadan önce iki rekât namaz kılsın.",
+      "ar": "إِذَا دَخَلَ أَحَدُكُمُ الْمَسْجِدَ فَلْيَرْكَعْ رَكْعَتَيْنِ قَبْلَ أَنْ يَجْلِسَ",
+      "de": "Wenn einer von euch die Moschee betritt, soll er zwei Gebetseinheiten verrichten, bevor er sich setzt.",
+      "en": "When one of you enters the mosque, let him pray two rak‘ahs before he sits."
+    },
+    "narrator": {
+      "tr": "Ebû Katâde (r.a.)",
+      "ar": "أبو قتادة رضي الله عنه",
+      "de": "Abu Qatada (r.a.)",
+      "en": "Abu Qatadah (r.a.)"
+    },
+    "source": "Buhârî 444, Müslim 714",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 444",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-192",
+    "arabic": "مَثَلُ الْجَلِيسِ الصَّالِحِ وَالْجَلِيسِ السَّوْءِ كَحَامِلِ الْمِسْكِ وَنَافِخِ الْكِيرِ",
+    "translations": {
+      "tr": "İyi arkadaşla kötü arkadaşın örneği, misk taşıyan ile körük çeken demirci gibidir.",
+      "ar": "مَثَلُ الْجَلِيسِ الصَّالِحِ وَالْجَلِيسِ السَّوْءِ كَحَامِلِ الْمِسْكِ وَنَافِخِ الْكِيرِ",
+      "de": "Das Beispiel des guten und des schlechten Gefährten ist wie das des Moschusträgers und des Schmiedes, der den Blasebalg bedient.",
+      "en": "The example of a good companion and a bad companion is like a musk seller and a blacksmith’s bellows."
+    },
+    "narrator": {
+      "tr": "Ebû Mûsâ el-Eş‘arî (r.a.)",
+      "ar": "أبو موسى الأشعري رضي الله عنه",
+      "de": "Abu Musa al-Ashari (r.a.)",
+      "en": "Abu Musa al-Ashari (r.a.)"
+    },
+    "source": "Buhârî 5534, Müslim 2628",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 5534",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-193",
+    "arabic": "لَيْسَ الْغِنَى عَنْ كَثْرَةِ الْعَرَضِ، وَلَكِنَّ الْغِنَى غِنَى النَّفْسِ",
+    "translations": {
+      "tr": "Zenginlik mal çokluğu değildir; asıl zenginlik gönül zenginliğidir.",
+      "ar": "لَيْسَ الْغِنَى عَنْ كَثْرَةِ الْعَرَضِ، وَلَكِنَّ الْغِنَى غِنَى النَّفْسِ",
+      "de": "Reichtum ist nicht Fülle an Besitz, sondern der wahre Reichtum ist der Reichtum der Seele.",
+      "en": "Richness is not having many possessions, but true richness is the richness of the soul."
+    },
+    "narrator": {
+      "tr": "Ebû Hureyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Huraira (r.a.)",
+      "en": "Abu Hurayrah (r.a.)"
+    },
+    "source": "Buhârî 6446, Müslim 1051",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 6446",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-194",
+    "arabic": "إِنَّ رَحْمَتِي سَبَقَتْ غَضَبِي",
+    "translations": {
+      "tr": "Şüphesiz benim rahmetim gazabımı geçmiştir.",
+      "ar": "إِنَّ رَحْمَتِي سَبَقَتْ غَضَبِي",
+      "de": "Wahrlich, Meine Barmherzigkeit hat Meinen Zorn überholt.",
+      "en": "Indeed, My mercy has surpassed My wrath."
+    },
+    "narrator": {
+      "tr": "Ebû Hureyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Huraira (r.a.)",
+      "en": "Abu Hurayrah (r.a.)"
+    },
+    "source": "Buhârî 7554, Müslim 2751",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 7554",
+    "notes": "Kudsî Hadis (Sahih)"
+  },
+  {
+    "id": "hadith-195",
+    "arabic": "إِنَّ الرِّفْقَ لَا يَكُونُ فِي شَيْءٍ إِلَّا زَانَهُ، وَلَا يُنْزَعُ مِنْ شَيْءٍ إِلَّا شَانَهُ",
+    "translations": {
+      "tr": "Yumuşaklık bulunduğu şeyi güzelleştirir; kendisinden çıkarıldığı şeyi çirkinleştirir.",
+      "ar": "إِنَّ الرِّفْقَ لَا يَكُونُ فِي شَيْءٍ إِلَّا زَانَهُ، وَلَا يُنْزَعُ مِنْ شَيْءٍ إِلَّا شَانَهُ",
+      "de": "Sanftmut ziert alles, worin sie ist, und alles, woraus sie genommen wird, wird entstellt.",
+      "en": "Gentleness does not exist in anything but that it beautifies it, and is not removed from anything but that it disfigures it."
+    },
+    "narrator": {
+      "tr": "Hz. Âişe (r.anhâ)",
+      "ar": "عائشة رضي الله عنها",
+      "de": "Aisha (r.a.)",
+      "en": "Aisha (r.a.)"
+    },
+    "source": "Müslim 2594",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 2594",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-196",
+    "arabic": "الْحَيَاءُ مِنَ الْإِيمَانِ",
+    "translations": {
+      "tr": "Haya imandandır.",
+      "ar": "الْحَيَاءُ مِنَ الْإِيمَانِ",
+      "de": "Die Scham gehört zum Glauben.",
+      "en": "Modesty is part of faith."
+    },
+    "narrator": {
+      "tr": "Abdullah bin Ömer (r.a.)",
+      "ar": "عبد الله بن عمر رضي الله عنهما",
+      "de": "Abdullah ibn Umar (r.a.)",
+      "en": "Abdullah ibn Umar (r.a.)"
+    },
+    "source": "Buhârî 24, Müslim 36",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 24",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-197",
+    "arabic": "الْإِيمَانُ بِضْعٌ وَسَبْعُونَ شُعْبَةً، وَالْحَيَاءُ شُعْبَةٌ مِنَ الْإِيمَانِ",
+    "translations": {
+      "tr": "İman yetmiş küsur şubedir; haya da imanın bir şubesidir.",
+      "ar": "الْإِيمَانُ بِضْعٌ وَسَبْعُونَ شُعْبَةً، وَالْحَيَاءُ شُعْبَةٌ مِنَ الْإِيمَانِ",
+      "de": "Der Glaube hat über siebzig Zweige, und die Scham ist ein Zweig des Glaubens.",
+      "en": "Faith has over seventy branches, and modesty is a branch of faith."
+    },
+    "narrator": {
+      "tr": "Ebû Hureyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Huraira (r.a.)",
+      "en": "Abu Hurayrah (r.a.)"
+    },
+    "source": "Buhârî 9, Müslim 35",
+    "bookName": "Sahih al-Bukhari",
+    "hadithNumber": "Buhârî 9",
+    "notes": "Sahih (Müttefekun Aleyh)"
+  },
+  {
+    "id": "hadith-198",
+    "arabic": "أَوَّلُ مَا يُحَاسَبُ بِهِ الْعَبْدُ يَوْمَ الْقِيَامَةِ الصَّلَاةُ",
+    "translations": {
+      "tr": "Kıyamet günü kulun hesaba çekileceği ilk şey namazdır.",
+      "ar": "أَوَّلُ مَا يُحَاسَبُ بِهِ الْعَبْدُ يَوْمَ الْقِيَامَةِ الصَّلَاةُ",
+      "de": "Das Erste, wofür der Diener am Tag der Auferstehung zur Rechenschaft gezogen wird, ist das Gebet.",
+      "en": "The first thing a servant will be held accountable for on the Day of Resurrection is prayer."
+    },
+    "narrator": {
+      "tr": "Ebû Hureyre (r.a.)",
+      "ar": "أبو هريرة رضي الله عنه",
+      "de": "Abu Huraira (r.a.)",
+      "en": "Abu Hurayrah (r.a.)"
+    },
+    "source": "Tirmizî 413, Nesâî 465",
+    "bookName": "Jami at-Tirmidhi",
+    "hadithNumber": "Tirmizî 413",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-199",
+    "arabic": "الدُّعَاءُ هُوَ الْعِبَادَةُ",
+    "translations": {
+      "tr": "Dua ibadetin ta kendisidir.",
+      "ar": "الدُّعَاءُ هُوَ الْعِبَادَةُ",
+      "de": "Das Bittgebet ist der Gottesdienst selbst.",
+      "en": "Supplication is worship itself."
+    },
+    "narrator": {
+      "tr": "Nu‘mân bin Beşîr (r.a.)",
+      "ar": "النعمان بن بشير رضي الله عنهما",
+      "de": "Nu‘man ibn Bashir (r.a.)",
+      "en": "Nu‘man ibn Bashir (r.a.)"
+    },
+    "source": "Tirmizî 3372, Ebû Dâvûd 1479",
+    "bookName": "Jami at-Tirmidhi",
+    "hadithNumber": "Tirmizî 3372",
+    "notes": "Sahih"
+  },
+  {
+    "id": "hadith-200",
+    "arabic": "اتَّقُوا الظُّلْمَ فَإِنَّ الظُّلْمَ ظُلُمَاتٌ يَوْمَ الْقِيَامَةِ",
+    "translations": {
+      "tr": "Zulümden sakının; çünkü zulüm kıyamet günü karanlıklardır.",
+      "ar": "اتَّقُوا الظُّلْمَ فَإِنَّ الظُّلْمَ ظُلُمَاتٌ يَوْمَ الْقِيَامَةِ",
+      "de": "Hütet euch vor dem Unrecht, denn das Unrecht wird am Tag der Auferstehung Finsternisse sein.",
+      "en": "Beware of injustice, for injustice will be darkness on the Day of Resurrection."
+    },
+    "narrator": {
+      "tr": "Câbir bin Abdullah (r.a.)",
+      "ar": "جابر بن عبد الله رضي الله عنهما",
+      "de": "Jabir ibn Abdullah (r.a.)",
+      "en": "Jabir ibn Abdullah (r.a.)"
+    },
+    "source": "Müslim 2578",
+    "bookName": "Sahih Muslim",
+    "hadithNumber": "Müslim 2578",
+    "notes": "Sahih"
+  }
+]

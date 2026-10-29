@@ -1,0 +1,39 @@
+{
+  "id": "/?source=pwa",
+  "name": "WSB Hamburg Mescid TV",
+  "short_name": "Mescid TV",
+  "description": "WSB Hamburg Mescid için 7/24 Kesintisiz Akıllı TV Namaz Vakti Ekranı",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "theme_color": "#F5F3EC",
+  "background_color": "#F5F3EC",
+  "icons": [
+    {
+      "src": "/assets/logo/wsb-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logo/wsb-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/assets/logo/wsb-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logo/wsb-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["lifestyle", "utilities"]
+}

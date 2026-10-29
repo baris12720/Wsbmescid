@@ -1,0 +1,56 @@
+name: APK üret
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kodu al
+        uses: actions/checkout@v4
+
+      - name: Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Gradle 8.4
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.4'
+
+      - name: APK derle
+        working-directory: android-tv-project
+        run: gradle --no-daemon assembleRelease -PappVersionCode=${{ github.run_number }}
+
+      - name: APK dosyasını hazırla
+        run: cp android-tv-project/app/build/outputs/apk/release/app-release.apk mescid-tv.apk
+
+      - name: APK'yı indirilebilir yap (Actions > Artifacts)
+        uses: actions/upload-artifact@v4
+        with:
+          name: mescid-tv-apk
+          path: mescid-tv.apk
+
+      - name: latest etiketini güncelle
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git tag -f latest
+          git push -f origin latest
+
+      - name: Sürüm sayfasına yükle (sabit indirme linki)
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: "Mescid TV - son sürüm"
+          body: "En son derlenen APK. Fire TV'de Downloader ile bu sayfadaki mescid-tv.apk dosyasını indirin."
+          files: mescid-tv.apk
+          make_latest: true
